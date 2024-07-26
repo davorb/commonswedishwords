@@ -6,7 +6,7 @@ learn Swedish.
 
 ## Demo
 
-You can see the app in action [here](https://common-swedish-words.davor.se/).
+You can see the app in action [here](https://svenska.davor.se/).
 
 ## How to run
 
