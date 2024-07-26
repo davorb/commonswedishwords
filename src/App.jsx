@@ -27,9 +27,10 @@ function App() {
         id="box"
         onClick={handleClick}
       >
-        <div className="box__face box__face--front">{englishWord}</div>
+        <div className="box__face box__face--front ">{englishWord}</div>
         <div className="box__face box__face--back">
-          <b>{swedishWord}</b>
+          <b className="fancy">{swedishWord}</b>
+          <br />
           {swedishExample}
         </div>
       </div>

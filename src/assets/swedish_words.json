@@ -885,11 +885,6 @@
     "example": "Jag kommer alltid att älska dig."
   },
   {
-    "english": "move",
-    "swedish": "drag",
-    "example": "Han gjorde ett snabbt drag i schackspelet."
-  },
-  {
     "english": "night",
     "swedish": "natt",
     "example": "Jag älskar att titta på stjärnorna på natten."
@@ -913,11 +908,6 @@
     "english": "today",
     "swedish": "i dag",
     "example": "Jag ska gå till butiken i dag."
-  },
-  {
-    "english": "bring",
-    "swedish": "bringa",
-    "example": "Kan du bringa mig min jacka?"
   },
   {
     "english": "happen",
@@ -1136,8 +1126,8 @@
   },
   {
     "english": "sit",
-    "swedish": "sit",
-    "example": "Kom och sit ner här bredvid mig."
+    "swedish": "sitt",
+    "example": "Kom och sitt ner här bredvid mig."
   },
   {
     "english": "away",
