@@ -50,9 +50,9 @@
     "example": "Jag tror att det kommer att regna imorgon."
   },
   {
-    "english": "for / too / before",
+    "english": "for",
     "swedish": "för",
-    "example": "Jag köpte en present för min vän."
+    "example": "Jag köpte en present för att du är min vän."
   },
   {
     "english": "you",
@@ -830,7 +830,7 @@
     "example": "Jag svänger till höger vid nästa gata."
   },
   {
-    "english": "program",
+    "english": "program / [TV] show",
     "swedish": "programmet",
     "example": "Jag älskar att titta på det här programmet."
   },
@@ -840,7 +840,7 @@
     "example": "Jag kan inte höra dig, kan du prata högre?"
   },
   {
-    "english": "question / issue",
+    "english": "question",
     "swedish": "fråga",
     "example": "Kan jag ställa en fråga?"
   },
@@ -876,8 +876,8 @@
   },
   {
     "english": "off",
-    "swedish": "off",
-    "example": "Ljuset är off."
+    "swedish": "avstängd",
+    "example": "Ljuset är avstängt."
   },
   {
     "english": "always",
@@ -945,7 +945,7 @@
     "example": "Jag kommer att gå hem nu."
   },
   {
-    "english": "under / according",
+    "english": "according to",
     "swedish": "enligt",
     "example": "Enligt rapporten är företagets vinst nedåtgående."
   },
@@ -977,7 +977,7 @@
   {
     "english": "national",
     "swedish": "nationell",
-    "example": "Sverige firar sin nationell dag den 6 juni."
+    "example": "Sverige firar sin nationaldag den 6 juni."
   },
   {
     "english": "money",
@@ -1016,7 +1016,7 @@
   },
   {
     "english": "book",
-    "swedish": "boken",
+    "swedish": "bok",
     "example": "Jag älskar att läsa den här boken."
   },
   {
@@ -1036,8 +1036,8 @@
   },
   {
     "english": "though",
-    "swedish": "though",
-    "example": "Jag tror att det kommer regna, även om solen skiner nu."
+    "swedish": "fastän",
+    "example": "Jag tror att det kommer regna, fastän solen skiner nu."
   },
   {
     "english": "business",
@@ -1050,9 +1050,9 @@
     "example": "Jag läser femtio sidor per dag."
   },
   {
-    "english": "kind",
-    "swedish": "slag",
-    "example": "Detta är en annan slag av musik."
+    "english": "kind / type of",
+    "swedish": "typ",
+    "example": "Detta är en annan typ av musik."
   },
   {
     "english": "four",
@@ -1067,7 +1067,7 @@
   {
     "english": "far",
     "swedish": "långt",
-    "example": "Jag bor långt ifrån skolan."
+    "example": "Jag bor långt från skolan."
   },
   {
     "english": "black",
@@ -1101,7 +1101,7 @@
   },
   {
     "english": "service",
-    "swedish": "tjänsten",
+    "swedish": "tjänst",
     "example": "Jag är mycket nöjd med tjänsten på detta hotell."
   },
   {
@@ -1123,6 +1123,11 @@
     "english": "father",
     "swedish": "far",
     "example": "Min far är läkare."
+  },
+  {
+    "english": "dad",
+    "swedish": "pappa",
+    "example": "Min pappa är läkare."
   },
   {
     "english": "sit",
@@ -1263,11 +1268,6 @@
     "english": "later",
     "swedish": "senare",
     "example": "Vi ses senare på caféet."
-  },
-  {
-    "english": "community",
-    "swedish": "medlemmar",
-    "example": "Vi har över hundra medlemmar i vår community."
   },
   {
     "english": "name",
