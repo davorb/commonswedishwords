@@ -1,0 +1,1497 @@
+[
+  {
+    "english": "the / it",
+    "swedish": "den",
+    "example": "Jag älskar den här boken."
+  },
+  {
+    "english": "be",
+    "swedish": "vara",
+    "example": "Det måste vara ett misstag."
+  },
+  {
+    "english": "and",
+    "swedish": "och",
+    "example": "Jag äter äpplen och bananer."
+  },
+  {
+    "english": "of / by / off / from",
+    "swedish": "av",
+    "example": "Jag är trött av allt arbete."
+  },
+  {
+    "english": "a",
+    "swedish": "en",
+    "example": "Jag har en katt hemma."
+  },
+  {
+    "english": "in",
+    "swedish": "i",
+    "example": "Jag bor i Stockholm."
+  },
+  {
+    "english": "have",
+    "swedish": "ha",
+    "example": "Jag måste ha en kopp kaffe nu."
+  },
+  {
+    "english": "to",
+    "swedish": "till",
+    "example": "Jag ska resa till Stockholm nästa vecka."
+  },
+  {
+    "english": "I",
+    "swedish": "jag",
+    "example": "Jag är svensk."
+  },
+  {
+    "english": "that",
+    "swedish": "att",
+    "example": "Jag tror att det kommer att regna imorgon."
+  },
+  {
+    "english": "for / too / before",
+    "swedish": "för",
+    "example": "Jag köpte en present för min vän."
+  },
+  {
+    "english": "you",
+    "swedish": "ni",
+    "example": "Ni är välkomna att delta i mötet."
+  },
+  {
+    "english": "he",
+    "swedish": "han",
+    "example": "Han går till skolan varje dag."
+  },
+  {
+    "english": "with",
+    "swedish": "med",
+    "example": "Jag går på promenad med min hund."
+  },
+  {
+    "english": "on / onto",
+    "swedish": "på",
+    "example": "Katten sitter på bordet."
+  },
+  {
+    "english": "do / make",
+    "swedish": "göra",
+    "example": "Jag måste göra mina läxor."
+  },
+  {
+    "english": "say",
+    "swedish": "säga",
+    "example": "Jag behöver säga dig något viktigt."
+  },
+  {
+    "english": "this",
+    "swedish": "detta",
+    "example": "Jag gillar detta."
+  },
+  {
+    "english": "they",
+    "swedish": "de",
+    "example": "De spelar fotboll på parken."
+  },
+  {
+    "english": "at",
+    "swedish": "vid",
+    "example": "Jag väntar på dig vid busshållplatsen."
+  },
+  {
+    "english": "but",
+    "swedish": "men",
+    "example": "Jag vill gå ut, men det regnar."
+  },
+  {
+    "english": "we",
+    "swedish": "vi",
+    "example": "Vi måste gå nu."
+  },
+  {
+    "english": "his",
+    "swedish": "hans",
+    "example": "Hans bil är röd."
+  },
+  {
+    "english": "from",
+    "swedish": "från",
+    "example": "Jag kommer från Sverige."
+  },
+  {
+    "english": "not",
+    "swedish": "inte",
+    "example": "Jag är inte redo för testet."
+  },
+  {
+    "english": "by / through",
+    "swedish": "genom",
+    "example": "Jag går genom parken varje morgon."
+  },
+  {
+    "english": "she",
+    "swedish": "hon",
+    "example": "Hon äter en äpple."
+  },
+  {
+    "english": "or",
+    "swedish": "eller",
+    "example": "Vill du ha kaffe eller te?"
+  },
+  {
+    "english": "as / who",
+    "swedish": "som",
+    "example": "Jag äter grönsaker som en del av min dagliga kost."
+  },
+  {
+    "english": "what",
+    "swedish": "vad",
+    "example": "Vad heter du?"
+  },
+  {
+    "english": "go / walk",
+    "swedish": "gå",
+    "example": "Vi måste gå nu."
+  },
+  {
+    "english": "their",
+    "swedish": "deras",
+    "example": "Deras hund är mycket vänlig."
+  },
+  {
+    "english": "can",
+    "swedish": "kan",
+    "example": "Jag kan tala svenska."
+  },
+  {
+    "english": "get / gain",
+    "swedish": "få",
+    "example": "Jag hoppas få en löneökning snart."
+  },
+  {
+    "english": "if",
+    "swedish": "om",
+    "example": "Om du går ut, ta med dig paraplyet."
+  },
+  {
+    "english": "would",
+    "swedish": "skulle",
+    "example": "Jag skulle vilja ha en kopp kaffe."
+  },
+  {
+    "english": "her",
+    "swedish": "hennes",
+    "example": "Hennes bil är röd."
+  },
+  {
+    "english": "all / everyone / everybody",
+    "swedish": "alla",
+    "example": "Alla ska komma till festen ikväll."
+  },
+  {
+    "english": "my",
+    "swedish": "min",
+    "example": "Min hund älskar att springa."
+  },
+  {
+    "english": "about",
+    "swedish": "ca",
+    "example": "Det kostar ca 100 kronor."
+  },
+  {
+    "english": "know",
+    "swedish": "vet",
+    "example": "Jag vet inte var jag är."
+  },
+  {
+    "english": "will",
+    "swedish": "kommer",
+    "example": "Jag kommer att studera för provet imorgon."
+  },
+  {
+    "english": "up",
+    "swedish": "upp",
+    "example": "Jag ska gå upp tidigt imorgon."
+  },
+  {
+    "english": "one",
+    "swedish": "ett",
+    "example": "Jag har bara ett äpple kvar."
+  },
+  {
+    "english": "time",
+    "swedish": "tid",
+    "example": "Jag behöver mer tid för att färdigställa projektet."
+  },
+  {
+    "english": "there / where",
+    "swedish": "där",
+    "example": "Jag bor där borta."
+  },
+  {
+    "english": "year",
+    "swedish": "år",
+    "example": "Jag har bott här i fem år."
+  },
+  {
+    "english": "so",
+    "swedish": "så",
+    "example": "Jag är så trött idag."
+  },
+  {
+    "english": "think / believe / faith / belief",
+    "swedish": "tro",
+    "example": "Jag tror att det kommer att regna imorgon."
+  },
+  {
+    "english": "when",
+    "swedish": "när",
+    "example": "När kommer bussen?"
+  },
+  {
+    "english": "which",
+    "swedish": "vilken",
+    "example": "Vilken film ska vi se ikväll?"
+  },
+  {
+    "english": "them",
+    "swedish": "dem",
+    "example": "Jag såg dem i parken igår."
+  },
+  {
+    "english": "some / few",
+    "swedish": "några",
+    "example": "Jag har bara några minuter kvar."
+  },
+  {
+    "english": "me / myself",
+    "swedish": "mig",
+    "example": "Du kan lita på mig."
+  },
+  {
+    "english": "people",
+    "swedish": "människor",
+    "example": "Många människor besöker parken varje dag."
+  },
+  {
+    "english": "take / check",
+    "swedish": "ta",
+    "example": "Kan du ta min väska, tack?"
+  },
+  {
+    "english": "out",
+    "swedish": "ut",
+    "example": "Jag ska gå ut och handla."
+  },
+  {
+    "english": "into",
+    "swedish": "in",
+    "example": "Jag går in i butiken."
+  },
+  {
+    "english": "just",
+    "swedish": "bara",
+    "example": "Jag äter bara frukt till frukost."
+  },
+  {
+    "english": "see",
+    "swedish": "se",
+    "example": "Jag kan se en vacker solnedgång."
+  },
+  {
+    "english": "him",
+    "swedish": "honom",
+    "example": "Jag såg honom i parken igår."
+  },
+  {
+    "english": "your",
+    "swedish": "din",
+    "example": "Jag gillar din nya bil."
+  },
+  {
+    "english": "come",
+    "swedish": "komma",
+    "example": "Du måste komma till festen ikväll."
+  },
+  {
+    "english": "could",
+    "swedish": "kunde",
+    "example": "Jag kunde inte hitta mina nycklar igår."
+  },
+  {
+    "english": "now",
+    "swedish": "nu",
+    "example": "Vi måste gå nu."
+  },
+  {
+    "english": "than",
+    "swedish": "än",
+    "example": "Jag är snabbare än du."
+  },
+  {
+    "english": "like / similar",
+    "swedish": "liknande",
+    "example": "Det är en liknande situation som vi har sett förut."
+  },
+  {
+    "english": "other / others / second",
+    "swedish": "andra",
+    "example": "Jag kommer att ta den andra vägen hem."
+  },
+  {
+    "english": "how",
+    "swedish": "hur",
+    "example": "Hur fungerar det här?"
+  },
+  {
+    "english": "then / since / ago",
+    "swedish": "sedan",
+    "example": "Jag flyttade hit för tio år sedan."
+  },
+  {
+    "english": "its",
+    "swedish": "dess",
+    "example": "Det är dess huvudfunktion."
+  },
+  {
+    "english": "our / spring",
+    "swedish": "vår",
+    "example": "Vår hund är väldigt söt."
+  },
+  {
+    "english": "two",
+    "swedish": "två",
+    "example": "Jag har två katter hemma."
+  },
+  {
+    "english": "more",
+    "swedish": "mer",
+    "example": "Jag behöver mer tid för att slutföra uppgiften."
+  },
+  {
+    "english": "these",
+    "swedish": "dessa",
+    "example": "Jag gillar dessa skor."
+  },
+  {
+    "english": "want / wish",
+    "swedish": "vill",
+    "example": "Jag vill ha en kopp kaffe."
+  },
+  {
+    "english": "way / manner",
+    "swedish": "sätt",
+    "example": "Visa mig på vilket sätt du löser detta problem."
+  },
+  {
+    "english": "look",
+    "swedish": "ser",
+    "example": "Jag ser en vacker solnedgång."
+  },
+  {
+    "english": "first",
+    "swedish": "först",
+    "example": "Först måste vi äta frukost."
+  },
+  {
+    "english": "also",
+    "swedish": "också",
+    "example": "Jag vill också gå till parken."
+  },
+  {
+    "english": "new",
+    "swedish": "ny",
+    "example": "Jag har köpt en ny bil."
+  },
+  {
+    "english": "because",
+    "swedish": "eftersom",
+    "example": "Jag är trött eftersom jag inte sov bra igår natt."
+  },
+  {
+    "english": "day",
+    "swedish": "dag",
+    "example": "Det är en vacker dag idag."
+  },
+  {
+    "english": "use",
+    "swedish": "använda",
+    "example": "Vi behöver använda bilen idag."
+  },
+  {
+    "english": "no",
+    "swedish": "nej",
+    "example": "Nej, jag kan inte komma till festen."
+  },
+  {
+    "english": "man / person",
+    "swedish": "människa",
+    "example": "Han är en god människa."
+  },
+  {
+    "english": "find",
+    "swedish": "hitta",
+    "example": "Jag försöker hitta mina nycklar."
+  },
+  {
+    "english": "here",
+    "swedish": "här",
+    "example": "Din kaffe är här."
+  },
+  {
+    "english": "thing",
+    "swedish": "ting",
+    "example": "Jag köpte en ny ting för mitt kök."
+  },
+  {
+    "english": "give",
+    "swedish": "ge",
+    "example": "Kan du ge mig pennan?"
+  },
+  {
+    "english": "many",
+    "swedish": "många",
+    "example": "Vi har många äpplen i trädgården."
+  },
+  {
+    "english": "well",
+    "swedish": "väl",
+    "example": "Jag mår väl, tack."
+  },
+  {
+    "english": "only",
+    "swedish": "endast",
+    "example": "Jag har endast fem kronor i min plånbok."
+  },
+  {
+    "english": "those",
+    "swedish": "de som",
+    "example": "De som bor här är mycket vänliga."
+  },
+  {
+    "english": "tell",
+    "swedish": "berätta",
+    "example": "Kan du berätta en saga för mig?"
+  },
+  {
+    "english": "very / much / lot / highly",
+    "swedish": "mycket",
+    "example": "Jag tycker mycket om dig."
+  },
+  {
+    "english": "even / also",
+    "swedish": "även",
+    "example": "Jag kan även laga mat."
+  },
+  {
+    "english": "back",
+    "swedish": "tillbaka",
+    "example": "Vi måste gå tillbaka till huset."
+  },
+  {
+    "english": "any / someone / anyone / somebody / anybody",
+    "swedish": "någon",
+    "example": "Har du sett någon här?"
+  },
+  {
+    "english": "good / great",
+    "swedish": "bra",
+    "example": "Jag mår bra idag."
+  },
+  {
+    "english": "woman / female",
+    "swedish": "kvinna",
+    "example": "Hon är en stark kvinna."
+  },
+  {
+    "english": "us / ourselves",
+    "swedish": "oss",
+    "example": "De bjuder oss på middag imorgon."
+  },
+  {
+    "english": "life",
+    "swedish": "liv",
+    "example": "Livet är vackert."
+  },
+  {
+    "english": "child / baby",
+    "swedish": "barn",
+    "example": "Det här är mitt barn."
+  },
+  {
+    "english": "work",
+    "swedish": "arbete",
+    "example": "Jag älskar mitt arbete."
+  },
+  {
+    "english": "down",
+    "swedish": "ner",
+    "example": "Jag går ner till affären."
+  },
+  {
+    "english": "may",
+    "swedish": "får",
+    "example": "Du får inte röka här."
+  },
+  {
+    "english": "after",
+    "swedish": "efter",
+    "example": "Jag går till gymmet efter jobbet."
+  },
+  {
+    "english": "should",
+    "swedish": "bör",
+    "example": "Vi bör åka till affären idag."
+  },
+  {
+    "english": "call",
+    "swedish": "samtal",
+    "example": "Jag väntar på ett viktigt samtal."
+  },
+  {
+    "english": "world",
+    "swedish": "världen",
+    "example": "Vi lever i en vacker värld."
+  },
+  {
+    "english": "over",
+    "swedish": "över",
+    "example": "Jag hoppade över muren."
+  },
+  {
+    "english": "school",
+    "swedish": "skola",
+    "example": "Jag går till skola varje dag."
+  },
+  {
+    "english": "still",
+    "swedish": "fortfarande",
+    "example": "Jag är fortfarande hungrig."
+  },
+  {
+    "english": "try / trial / attempt",
+    "swedish": "försök",
+    "example": "Jag ska göra ett försök att laga maten själv."
+  },
+  {
+    "english": "last",
+    "swedish": "sista",
+    "example": "Detta är min sista chans."
+  },
+  {
+    "english": "ask",
+    "swedish": "be",
+    "example": "Fråga honom var han ska be."
+  },
+  {
+    "english": "need",
+    "swedish": "behöver",
+    "example": "Jag behöver gå till affären för att köpa mjölk."
+  },
+  {
+    "english": "too",
+    "swedish": "alltför",
+    "example": "Han arbetar alltför mycket."
+  },
+  {
+    "english": "feel",
+    "swedish": "känna",
+    "example": "Jag börjar känna mig trött."
+  },
+  {
+    "english": "three",
+    "swedish": "tre",
+    "example": "Jag har tre katter hemma."
+  },
+  {
+    "english": "state / condition",
+    "swedish": "tillstånd",
+    "example": "Hans hälsa är i dåligt tillstånd."
+  },
+  {
+    "english": "never",
+    "swedish": "aldrig",
+    "example": "Jag har aldrig varit i Paris."
+  },
+  {
+    "english": "become",
+    "swedish": "bli",
+    "example": "Jag vill bli lärare."
+  },
+  {
+    "english": "between",
+    "swedish": "mellan",
+    "example": "Jag sitter mellan två stolar."
+  },
+  {
+    "english": "high",
+    "swedish": "hög",
+    "example": "Priset är för hög."
+  },
+  {
+    "english": "really",
+    "swedish": "verkligen",
+    "example": "Jag tycker verkligen om den här låten."
+  },
+  {
+    "english": "something / anything",
+    "swedish": "något",
+    "example": "Jag behöver köpa något att äta."
+  },
+  {
+    "english": "most",
+    "swedish": "mest",
+    "example": "Jag gillar choklad mest."
+  },
+  {
+    "english": "another",
+    "swedish": "en annan",
+    "example": "Jag behöver en annan penna."
+  },
+  {
+    "english": "family",
+    "swedish": "familj",
+    "example": "Jag älskar min familj väldigt mycket."
+  },
+  {
+    "english": "own",
+    "swedish": "egen",
+    "example": "Vi har vår egen bil."
+  },
+  {
+    "english": "leave",
+    "swedish": "inga",
+    "example": "Jag har inga planer att lämna staden."
+  },
+  {
+    "english": "put",
+    "swedish": "sätta",
+    "example": "Kan du sätta din jacka i garderoben?"
+  },
+  {
+    "english": "old",
+    "swedish": "gammal",
+    "example": "Min farmor är 90 år gammal."
+  },
+  {
+    "english": "while",
+    "swedish": "medan",
+    "example": "Jag lyssnar på musik medan jag studerar."
+  },
+  {
+    "english": "mean",
+    "swedish": "betyda",
+    "example": "Detta kan betyda stora problem för oss."
+  },
+  {
+    "english": "keep",
+    "swedish": "hålla",
+    "example": "Vi måste hålla huset rent."
+  },
+  {
+    "english": "student",
+    "swedish": "studenten",
+    "example": "Studenten är i sitt rum."
+  },
+  {
+    "english": "why",
+    "swedish": "varför",
+    "example": "Varför åt du min lunch?"
+  },
+  {
+    "english": "let",
+    "swedish": "låt",
+    "example": "Låt oss gå till parken idag."
+  },
+  {
+    "english": "same",
+    "swedish": "samma",
+    "example": "Vi beställde samma maträtt på restaurangen."
+  },
+  {
+    "english": "big / large",
+    "swedish": "stor",
+    "example": "Jag har en stor hund."
+  },
+  {
+    "english": "group",
+    "swedish": "grupp",
+    "example": "Vi tillhör samma grupp."
+  },
+  {
+    "english": "begin",
+    "swedish": "börja",
+    "example": "Vi måste börja arbeta nu."
+  },
+  {
+    "english": "seem",
+    "swedish": "tyckas",
+    "example": "Det tyckas som om det kommer att regna idag."
+  },
+  {
+    "english": "country",
+    "swedish": "land",
+    "example": "Sverige är ett vackert land."
+  },
+  {
+    "english": "help",
+    "swedish": "hjälpa",
+    "example": "Kan du hjälpa mig med detta problem?"
+  },
+  {
+    "english": "talk",
+    "swedish": "talk",
+    "example": "Vi behöver prata om detta."
+  },
+  {
+    "english": "turn",
+    "swedish": "sväng",
+    "example": "Jag behöver svänga till höger vid nästa gata."
+  },
+  {
+    "english": "problem",
+    "swedish": "problemet",
+    "example": "Jag löser ofta problemet på egen hand."
+  },
+  {
+    "english": "every / each",
+    "swedish": "varje",
+    "example": "Jag går till gymmet varje dag."
+  },
+  {
+    "english": "start",
+    "swedish": "start",
+    "example": "Vi måste starta om datorn."
+  },
+  {
+    "english": "hand",
+    "swedish": "sidan",
+    "example": "Han har en pistol i sidan."
+  },
+  {
+    "english": "might / maybe / perhaps",
+    "swedish": "kanske",
+    "example": "Jag kanske kommer till festen ikväll."
+  },
+  {
+    "english": "show",
+    "swedish": "show",
+    "example": "Visa mig vägen till biblioteket."
+  },
+  {
+    "english": "part",
+    "swedish": "delen",
+    "example": "Den här delen av filmen är min favorit."
+  },
+  {
+    "english": "against / toward / towards",
+    "swedish": "mot",
+    "example": "Jag går mot busshållplatsen."
+  },
+  {
+    "english": "place",
+    "swedish": "plats",
+    "example": "Jag har reserverat en plats för dig på restaurangen."
+  },
+  {
+    "english": "such",
+    "swedish": "sådan",
+    "example": "Han är sådan en trevlig kille."
+  },
+  {
+    "english": "again",
+    "swedish": "igen",
+    "example": "Vi måste börja om från början igen."
+  },
+  {
+    "english": "case",
+    "swedish": "fall",
+    "example": "Det är ett svårt fall att lösa."
+  },
+  {
+    "english": "week",
+    "swedish": "vecka",
+    "example": "Jag ska på semester nästa vecka."
+  },
+  {
+    "english": "company",
+    "swedish": "företaget",
+    "example": "Jag arbetar för ett stort företaget."
+  },
+  {
+    "english": "system",
+    "swedish": "systemet",
+    "example": "Systemet behöver uppgraderas."
+  },
+  {
+    "english": "right",
+    "swedish": "höger",
+    "example": "Jag svänger till höger vid nästa gata."
+  },
+  {
+    "english": "program",
+    "swedish": "programmet",
+    "example": "Jag älskar att titta på det här programmet."
+  },
+  {
+    "english": "hear",
+    "swedish": "höra",
+    "example": "Jag kan inte höra dig, kan du prata högre?"
+  },
+  {
+    "english": "question / issue",
+    "swedish": "fråga",
+    "example": "Kan jag ställa en fråga?"
+  },
+  {
+    "english": "during / beneath",
+    "swedish": "under",
+    "example": "Jag sov under filmen."
+  },
+  {
+    "english": "play",
+    "swedish": "spela",
+    "example": "Jag vill spela fotboll."
+  },
+  {
+    "english": "government",
+    "swedish": "regering",
+    "example": "Regeringen bestämde sig för att höja skatterna."
+  },
+  {
+    "english": "run",
+    "swedish": "köra",
+    "example": "Vi måste köra till affären nu."
+  },
+  {
+    "english": "small / little / tiny",
+    "swedish": "liten",
+    "example": "Jag har en liten katt."
+  },
+  {
+    "english": "number",
+    "swedish": "antal",
+    "example": "Antalet studenter i klassen är tjugo."
+  },
+  {
+    "english": "off",
+    "swedish": "off",
+    "example": "Ljuset är off."
+  },
+  {
+    "english": "always",
+    "swedish": "alltid",
+    "example": "Jag kommer alltid att älska dig."
+  },
+  {
+    "english": "move",
+    "swedish": "drag",
+    "example": "Han gjorde ett snabbt drag i schackspelet."
+  },
+  {
+    "english": "night",
+    "swedish": "natt",
+    "example": "Jag älskar att titta på stjärnorna på natten."
+  },
+  {
+    "english": "live",
+    "swedish": "lever",
+    "example": "Jag lever ett lyckligt liv."
+  },
+  {
+    "english": "point / score / credit",
+    "swedish": "poäng",
+    "example": "Jag har tjugo poäng på mitt kreditkort."
+  },
+  {
+    "english": "hold",
+    "swedish": "håll",
+    "example": "Håll i glaset så att det inte faller."
+  },
+  {
+    "english": "today",
+    "swedish": "i dag",
+    "example": "Jag ska gå till butiken i dag."
+  },
+  {
+    "english": "bring",
+    "swedish": "bringa",
+    "example": "Kan du bringa mig min jacka?"
+  },
+  {
+    "english": "happen",
+    "swedish": "hända",
+    "example": "Det kan hända imorgon."
+  },
+  {
+    "english": "next",
+    "swedish": "nästa",
+    "example": "Vi ses nästa vecka."
+  },
+  {
+    "english": "without",
+    "swedish": "utan",
+    "example": "Jag kan inte leva utan dig."
+  },
+  {
+    "english": "before",
+    "swedish": "före",
+    "example": "Jag äter alltid frukost före jag går till jobbet."
+  },
+  {
+    "english": "million",
+    "swedish": "miljoner",
+    "example": "Jag har vunnit fem miljoner i lotteriet."
+  },
+  {
+    "english": "must",
+    "swedish": "must",
+    "example": "Du måste borsta tänderna innan du går till sängs."
+  },
+  {
+    "english": "home",
+    "swedish": "hem",
+    "example": "Jag kommer att gå hem nu."
+  },
+  {
+    "english": "under / according",
+    "swedish": "enligt",
+    "example": "Enligt rapporten är företagets vinst nedåtgående."
+  },
+  {
+    "english": "water",
+    "swedish": "vatten",
+    "example": "Jag behöver ett glas vatten."
+  },
+  {
+    "english": "room",
+    "swedish": "rum",
+    "example": "Jag behöver städa mitt rum."
+  },
+  {
+    "english": "write",
+    "swedish": "skriva",
+    "example": "Jag måste skriva en uppsats till imorgon."
+  },
+  {
+    "english": "mother",
+    "swedish": "mor",
+    "example": "Min mor lagar bästa maten."
+  },
+  {
+    "english": "area / neighborhood",
+    "swedish": "område",
+    "example": "Detta är ett vackert område att bo i."
+  },
+  {
+    "english": "national",
+    "swedish": "nationell",
+    "example": "Sverige firar sin nationell dag den 6 juni."
+  },
+  {
+    "english": "money",
+    "swedish": "pengar",
+    "example": "Jag behöver mer pengar för att betala mina räkningar."
+  },
+  {
+    "english": "story",
+    "swedish": "berättelse",
+    "example": "Jag älskar att läsa en bra berättelse innan jag går och lägger mig."
+  },
+  {
+    "english": "young",
+    "swedish": "ung",
+    "example": "Han är för ung för att köra bil."
+  },
+  {
+    "english": "fact",
+    "swedish": "faktum",
+    "example": "Det är ett faktum att hon är den bästa läkaren i staden."
+  },
+  {
+    "english": "month",
+    "swedish": "månad",
+    "example": "Jag ska vara borta i en månad."
+  },
+  {
+    "english": "different",
+    "swedish": "annorlunda",
+    "example": "Han är annorlunda än sin bror."
+  },
+  {
+    "english": "study",
+    "swedish": "studie",
+    "example": "Jag behöver göra en studie på det här ämnet."
+  },
+  {
+    "english": "book",
+    "swedish": "boken",
+    "example": "Jag älskar att läsa den här boken."
+  },
+  {
+    "english": "eye",
+    "swedish": "öga",
+    "example": "Jag har något i mitt öga."
+  },
+  {
+    "english": "job",
+    "swedish": "jobb",
+    "example": "Jag söker ett nytt jobb."
+  },
+  {
+    "english": "word",
+    "swedish": "ord",
+    "example": "Jag lär mig nya ord varje dag."
+  },
+  {
+    "english": "though",
+    "swedish": "though",
+    "example": "Jag tror att det kommer regna, även om solen skiner nu."
+  },
+  {
+    "english": "business",
+    "swedish": "företag",
+    "example": "Jag startar mitt eget företag."
+  },
+  {
+    "english": "side / page",
+    "swedish": "sida",
+    "example": "Jag läser femtio sidor per dag."
+  },
+  {
+    "english": "kind",
+    "swedish": "slag",
+    "example": "Detta är en annan slag av musik."
+  },
+  {
+    "english": "four",
+    "swedish": "fyra",
+    "example": "Jag har fyra katter hemma."
+  },
+  {
+    "english": "head / main",
+    "swedish": "huvud",
+    "example": "Jag har ont i huvudet."
+  },
+  {
+    "english": "far",
+    "swedish": "långt",
+    "example": "Jag bor långt ifrån skolan."
+  },
+  {
+    "english": "black",
+    "swedish": "svart",
+    "example": "Jag har en svart bil."
+  },
+  {
+    "english": "long",
+    "swedish": "lång",
+    "example": "Han har väldigt långt hår."
+  },
+  {
+    "english": "both",
+    "swedish": "båda",
+    "example": "Vi älskar båda dessa filmer."
+  },
+  {
+    "english": "house",
+    "swedish": "hus",
+    "example": "Jag bor i ett stort hus."
+  },
+  {
+    "english": "yes / yeah",
+    "swedish": "ja",
+    "example": "Ja, jag kommer till festen ikväll."
+  },
+  {
+    "english": "provide",
+    "swedish": "tillhandahålla",
+    "example": "Vi kan tillhandahålla det du behöver."
+  },
+  {
+    "english": "service",
+    "swedish": "tjänsten",
+    "example": "Jag är mycket nöjd med tjänsten på detta hotell."
+  },
+  {
+    "english": "around",
+    "swedish": "runt",
+    "example": "Jag springer runt sjön varje morgon."
+  },
+  {
+    "english": "friend",
+    "swedish": "vän",
+    "example": "Han är min bästa vän."
+  },
+  {
+    "english": "important",
+    "swedish": "viktig",
+    "example": "Det är mycket viktigt att vi tar hand om vår miljö."
+  },
+  {
+    "english": "father",
+    "swedish": "far",
+    "example": "Min far är läkare."
+  },
+  {
+    "english": "sit",
+    "swedish": "sit",
+    "example": "Kom och sit ner här bredvid mig."
+  },
+  {
+    "english": "away",
+    "swedish": "borta",
+    "example": "Min hatt är borta."
+  },
+  {
+    "english": "until",
+    "swedish": "tills",
+    "example": "Vi väntar här tills han kommer."
+  },
+  {
+    "english": "power / force / strength",
+    "swedish": "kraft",
+    "example": "Jag behöver mer kraft för att lyfta denna låda."
+  },
+  {
+    "english": "hour",
+    "swedish": "timme",
+    "example": "Jag kommer att vara där om en timme."
+  },
+  {
+    "english": "game",
+    "swedish": "spel",
+    "example": "Jag älskar att spela det här spelet."
+  },
+  {
+    "english": "often / frequently",
+    "swedish": "ofta",
+    "example": "Jag går ofta till gymmet för att träna."
+  },
+  {
+    "english": "yet",
+    "swedish": "ännu",
+    "example": "Vi har ännu inte ätit middag."
+  },
+  {
+    "english": "line",
+    "swedish": "linje",
+    "example": "Jag står i en lång linje på postkontoret."
+  },
+  {
+    "english": "political",
+    "swedish": "politisk",
+    "example": "Hon studerar politisk vetenskap vid universitetet."
+  },
+  {
+    "english": "end",
+    "swedish": "ände",
+    "example": "Vi ses vid linjens ände."
+  },
+  {
+    "english": "among",
+    "swedish": "bland",
+    "example": "Han är populär bland studenterna."
+  },
+  {
+    "english": "ever",
+    "swedish": "någonsin",
+    "example": "Har du någonsin besökt Sverige?"
+  },
+  {
+    "english": "stand",
+    "swedish": "stå",
+    "example": "Jag kan inte stå upp längre."
+  },
+  {
+    "english": "bad / poor",
+    "swedish": "dålig",
+    "example": "Mitt internet är dåligt idag."
+  },
+  {
+    "english": "lose",
+    "swedish": "förlora",
+    "example": "Vi kan inte förlora den här matchen."
+  },
+  {
+    "english": "however",
+    "swedish": "dock",
+    "example": "Jag tycker om att springa, dock behöver jag nya löparskor."
+  },
+  {
+    "english": "member",
+    "swedish": "medlem",
+    "example": "Han är medlem i fotbollsklubben."
+  },
+  {
+    "english": "pay",
+    "swedish": "betala",
+    "example": "Jag behöver betala räkningen."
+  },
+  {
+    "english": "law / team",
+    "swedish": "lag",
+    "example": "Hockey laget vann matchen."
+  },
+  {
+    "english": "meet",
+    "swedish": "träffa",
+    "example": "Jag ska träffa mina vänner imorgon."
+  },
+  {
+    "english": "car",
+    "swedish": "bil",
+    "example": "Jag behöver en ny bil."
+  },
+  {
+    "english": "city / town",
+    "swedish": "stad",
+    "example": "Jag bor i en liten stad."
+  },
+  {
+    "english": "almost / nearly",
+    "swedish": "nästan",
+    "example": "Jag är nästan klar med min bok."
+  },
+  {
+    "english": "include",
+    "swedish": "inkluderar",
+    "example": "Mitt jobb inkluderar att skriva rapporter."
+  },
+  {
+    "english": "continue",
+    "swedish": "fortsätta",
+    "example": "Vi måste fortsätta arbeta tillsammans för att lösa detta problem."
+  },
+  {
+    "english": "set",
+    "swedish": "uppsättning",
+    "example": "Jag köpte en ny uppsättning av köksredskap."
+  },
+  {
+    "english": "later",
+    "swedish": "senare",
+    "example": "Vi ses senare på caféet."
+  },
+  {
+    "english": "community",
+    "swedish": "medlemmar",
+    "example": "Vi har över hundra medlemmar i vår community."
+  },
+  {
+    "english": "name",
+    "swedish": "namn",
+    "example": "Vad är ditt namn?"
+  },
+  {
+    "english": "five",
+    "swedish": "fem",
+    "example": "Jag har fem katter hemma."
+  },
+  {
+    "english": "once",
+    "swedish": "en gång",
+    "example": "Jag har bara besökt Paris en gång."
+  },
+  {
+    "english": "white",
+    "swedish": "vit",
+    "example": "Hon har en vit katt."
+  },
+  {
+    "english": "least",
+    "swedish": "minst",
+    "example": "Jag behöver minst åtta timmars sömn varje natt."
+  },
+  {
+    "english": "president",
+    "swedish": "president",
+    "example": "Presidenten kommer att hålla ett tal ikväll."
+  },
+  {
+    "english": "learn",
+    "swedish": "lära",
+    "example": "Jag vill lära mig svenska."
+  },
+  {
+    "english": "real",
+    "swedish": "real",
+    "example": "Detta är en äkta känsla, det är real."
+  },
+  {
+    "english": "change",
+    "swedish": "förändring",
+    "example": "Jag ser en stor förändring i ditt beteende."
+  },
+  {
+    "english": "minute",
+    "swedish": "minut",
+    "example": "Jag behöver bara en minut till."
+  },
+  {
+    "english": "best",
+    "swedish": "bäst",
+    "example": "Du är den bäst vän jag någonsin haft."
+  },
+  {
+    "english": "several",
+    "swedish": "flera",
+    "example": "Jag har flera böcker att läsa."
+  },
+  {
+    "english": "idea",
+    "swedish": "idé",
+    "example": "Jag har en bra idé för vårt nästa projekt."
+  },
+  {
+    "english": "kid",
+    "swedish": "kid",
+    "example": "Mitt barn, även kallat kid, leker i parken."
+  },
+  {
+    "english": "body",
+    "swedish": "kropp",
+    "example": "Jag tar hand om min kropp genom att äta hälsosam mat och träna regelbundet."
+  },
+  {
+    "english": "information",
+    "swedish": "Information",
+    "example": "Jag behöver mer information om ämnet."
+  },
+  {
+    "english": "nothing",
+    "swedish": "ingenting",
+    "example": "Jag vet ingenting om det."
+  },
+  {
+    "english": "lead",
+    "swedish": "bly",
+    "example": "Jag skriver med en blypenna."
+  },
+  {
+    "english": "social",
+    "swedish": "social",
+    "example": "Jag är en mycket social person."
+  },
+  {
+    "english": "understand",
+    "swedish": "förstå",
+    "example": "Jag kan inte förstå det här språket."
+  },
+  {
+    "english": "whether",
+    "swedish": "huruvida",
+    "example": "Vi måste diskutera huruvida vi ska flytta till en ny stad."
+  },
+  {
+    "english": "watch",
+    "swedish": "klocka",
+    "example": "Jag har köpt en ny klocka."
+  },
+  {
+    "english": "together",
+    "swedish": "tillsammans",
+    "example": "Vi borde arbeta tillsammans för att lösa detta problem."
+  },
+  {
+    "english": "follow",
+    "swedish": "följ",
+    "example": "Följ mig till butiken, tack."
+  },
+  {
+    "english": "parent",
+    "swedish": "förälder",
+    "example": "Min förälder kommer att hämta mig efter skolan."
+  },
+  {
+    "english": "stop",
+    "swedish": "stoppa",
+    "example": "Vi måste stoppa bilen nu."
+  },
+  {
+    "english": "face",
+    "swedish": "ansikte",
+    "example": "Han har ett mycket vackert ansikte."
+  },
+  {
+    "english": "create",
+    "swedish": "skapa",
+    "example": "Vi behöver skapa en ny plan."
+  },
+  {
+    "english": "public / general",
+    "swedish": "allmän",
+    "example": "Denna information är allmän kunskap."
+  },
+  {
+    "english": "already",
+    "swedish": "redan",
+    "example": "Jag har redan ätit frukost."
+  },
+  {
+    "english": "speak",
+    "swedish": "tala",
+    "example": "Jag kan tala svenska."
+  },
+  {
+    "english": "read",
+    "swedish": "läsa",
+    "example": "Jag älskar att läsa böcker."
+  },
+  {
+    "english": "level",
+    "swedish": "nivå",
+    "example": "Jag är på en avancerad nivå i svenska."
+  },
+  {
+    "english": "allow",
+    "swedish": "tillåta",
+    "example": "Vi kan inte tillåta detta beteende."
+  },
+  {
+    "english": "add",
+    "swedish": "lägg",
+    "example": "Lägg till socker i kaffet."
+  },
+  {
+    "english": "office",
+    "swedish": "kontor",
+    "example": "Jag jobbar på ett kontor i staden."
+  },
+  {
+    "english": "spend",
+    "swedish": "spendera",
+    "example": "Vi behöver spendera mindre pengar på onödiga saker."
+  },
+  {
+    "english": "door",
+    "swedish": "dörr",
+    "example": "Jag stängde dörren innan jag gick."
+  },
+  {
+    "english": "health",
+    "swedish": "hälsa",
+    "example": "Min hälsa är mycket viktig för mig."
+  },
+  {
+    "english": "art",
+    "swedish": "konst",
+    "example": "Jag älskar att studera konst."
+  },
+  {
+    "english": "sure / safe",
+    "swedish": "säker",
+    "example": "Jag är säker på att det kommer att bli bra."
+  },
+  {
+    "english": "war",
+    "swedish": "krig",
+    "example": "Vi måste alltid försöka förhindra krig."
+  },
+  {
+    "english": "history",
+    "swedish": "historia",
+    "example": "Jag älskar att läsa om världshistoria."
+  }
+]
