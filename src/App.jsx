@@ -1,4 +1,4 @@
-import { useEffect, useState, useCallback } from "react";
+import { useState, useCallback } from "react";
 import "./App.css";
 import Words from "./assets/swedish_words.json";
 
