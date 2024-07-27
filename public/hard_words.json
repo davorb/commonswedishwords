@@ -1,7 +1,4002 @@
 [
   {
+    "english": "as",
+    "swedish": "som"
+  },
+  {
+    "english": "I",
+    "swedish": "jag"
+  },
+  {
+    "english": "his",
+    "swedish": "hans"
+  },
+  {
+    "english": "that",
+    "swedish": "att"
+  },
+  {
+    "english": "he",
+    "swedish": "han"
+  },
+  {
+    "english": "was",
+    "swedish": "var"
+  },
+  {
+    "english": "for",
+    "swedish": "för"
+  },
+  {
+    "english": "on",
+    "swedish": "på"
+  },
+  {
+    "english": "are",
+    "swedish": "är"
+  },
+  {
+    "english": "with",
+    "swedish": "med"
+  },
+  {
+    "english": "they",
+    "swedish": "de"
+  },
+  {
     "english": "be",
-    "swedish": "vara",
-    "example": "Det måste vara ett misstag."
+    "swedish": "vara"
+  },
+  {
+    "english": "at",
+    "swedish": "vid"
+  },
+  {
+    "english": "one",
+    "swedish": "ett"
+  },
+  {
+    "english": "have",
+    "swedish": "ha"
+  },
+  {
+    "english": "this",
+    "swedish": "detta"
+  },
+  {
+    "english": "from",
+    "swedish": "från"
+  },
+  {
+    "english": "by",
+    "swedish": "genom"
+  },
+  {
+    "english": "hot",
+    "swedish": "het"
+  },
+  {
+    "english": "word",
+    "swedish": "ord"
+  },
+  {
+    "english": "but",
+    "swedish": "men"
+  },
+  {
+    "english": "what",
+    "swedish": "vad"
+  },
+  {
+    "english": "some",
+    "swedish": "några"
+  },
+  {
+    "english": "is",
+    "swedish": "är"
+  },
+  {
+    "english": "it",
+    "swedish": "den"
+  },
+  {
+    "english": "you",
+    "swedish": "du"
+  },
+  {
+    "english": "or",
+    "swedish": "eller"
+  },
+  {
+    "english": "had",
+    "swedish": "hade"
+  },
+  {
+    "english": "the",
+    "swedish": "den"
+  },
+  {
+    "english": "of",
+    "swedish": "av"
+  },
+  {
+    "english": "to",
+    "swedish": "till"
+  },
+  {
+    "english": "and",
+    "swedish": "och"
+  },
+  {
+    "english": "a",
+    "swedish": "en"
+  },
+  {
+    "english": "in",
+    "swedish": "i"
+  },
+  {
+    "english": "we",
+    "swedish": "vi"
+  },
+  {
+    "english": "can",
+    "swedish": "kan"
+  },
+  {
+    "english": "out",
+    "swedish": "ut"
+  },
+  {
+    "english": "other",
+    "swedish": "andra"
+  },
+  {
+    "english": "were",
+    "swedish": "var"
+  },
+  {
+    "english": "which",
+    "swedish": "vilken"
+  },
+  {
+    "english": "do",
+    "swedish": "göra"
+  },
+  {
+    "english": "their",
+    "swedish": "deras"
+  },
+  {
+    "english": "time",
+    "swedish": "tid"
+  },
+  {
+    "english": "if",
+    "swedish": "om"
+  },
+  {
+    "english": "will",
+    "swedish": "kommer"
+  },
+  {
+    "english": "how",
+    "swedish": "hur"
+  },
+  {
+    "english": "said",
+    "swedish": "sa"
+  },
+  {
+    "english": "an",
+    "swedish": "ett"
+  },
+  {
+    "english": "each",
+    "swedish": "varje"
+  },
+  {
+    "english": "tell",
+    "swedish": "berätta"
+  },
+  {
+    "english": "does",
+    "swedish": "gör"
+  },
+  {
+    "english": "set",
+    "swedish": "uppsättning"
+  },
+  {
+    "english": "three",
+    "swedish": "tre"
+  },
+  {
+    "english": "want",
+    "swedish": "vill"
+  },
+  {
+    "english": "air",
+    "swedish": "luft"
+  },
+  {
+    "english": "well",
+    "swedish": "väl"
+  },
+  {
+    "english": "also",
+    "swedish": "också"
+  },
+  {
+    "english": "play",
+    "swedish": "spela"
+  },
+  {
+    "english": "small",
+    "swedish": "liten"
+  },
+  {
+    "english": "end",
+    "swedish": "ände"
+  },
+  {
+    "english": "put",
+    "swedish": "sätta"
+  },
+  {
+    "english": "home",
+    "swedish": "hem"
+  },
+  {
+    "english": "read",
+    "swedish": "läsa"
+  },
+  {
+    "english": "hand",
+    "swedish": "sidan"
+  },
+  {
+    "english": "port",
+    "swedish": "port"
+  },
+  {
+    "english": "large",
+    "swedish": "stor"
+  },
+  {
+    "english": "spell",
+    "swedish": "stava"
+  },
+  {
+    "english": "add",
+    "swedish": "lägg"
+  },
+  {
+    "english": "even",
+    "swedish": "även"
+  },
+  {
+    "english": "land",
+    "swedish": "mark"
+  },
+  {
+    "english": "here",
+    "swedish": "här"
+  },
+  {
+    "english": "must",
+    "swedish": "must"
+  },
+  {
+    "english": "big",
+    "swedish": "stor"
+  },
+  {
+    "english": "high",
+    "swedish": "hög"
+  },
+  {
+    "english": "such",
+    "swedish": "sådan"
+  },
+  {
+    "english": "follow",
+    "swedish": "följ"
+  },
+  {
+    "english": "act",
+    "swedish": "handling"
+  },
+  {
+    "english": "why",
+    "swedish": "varför"
+  },
+  {
+    "english": "ask",
+    "swedish": "be"
+  },
+  {
+    "english": "men",
+    "swedish": "män"
+  },
+  {
+    "english": "change",
+    "swedish": "förändring"
+  },
+  {
+    "english": "went",
+    "swedish": "gick"
+  },
+  {
+    "english": "light",
+    "swedish": "ljus"
+  },
+  {
+    "english": "kind",
+    "swedish": "slag"
+  },
+  {
+    "english": "off",
+    "swedish": "off"
+  },
+  {
+    "english": "need",
+    "swedish": "behöver"
+  },
+  {
+    "english": "house",
+    "swedish": "hus"
+  },
+  {
+    "english": "picture",
+    "swedish": "bilden"
+  },
+  {
+    "english": "try",
+    "swedish": "försök"
+  },
+  {
+    "english": "us",
+    "swedish": "oss"
+  },
+  {
+    "english": "again",
+    "swedish": "igen"
+  },
+  {
+    "english": "animal",
+    "swedish": "djur"
+  },
+  {
+    "english": "point",
+    "swedish": "punkt"
+  },
+  {
+    "english": "mother",
+    "swedish": "mor"
+  },
+  {
+    "english": "world",
+    "swedish": "världen"
+  },
+  {
+    "english": "near",
+    "swedish": "nära"
+  },
+  {
+    "english": "build",
+    "swedish": "bygga"
+  },
+  {
+    "english": "self",
+    "swedish": "själv"
+  },
+  {
+    "english": "earth",
+    "swedish": "jord"
+  },
+  {
+    "english": "father",
+    "swedish": "far"
+  },
+  {
+    "english": "any",
+    "swedish": "någon"
+  },
+  {
+    "english": "new",
+    "swedish": "ny"
+  },
+  {
+    "english": "work",
+    "swedish": "arbete"
+  },
+  {
+    "english": "part",
+    "swedish": "delen"
+  },
+  {
+    "english": "take",
+    "swedish": "ta"
+  },
+  {
+    "english": "get",
+    "swedish": "få"
+  },
+  {
+    "english": "place",
+    "swedish": "plats"
+  },
+  {
+    "english": "made",
+    "swedish": "gjort"
+  },
+  {
+    "english": "live",
+    "swedish": "lever"
+  },
+  {
+    "english": "where",
+    "swedish": "där"
+  },
+  {
+    "english": "after",
+    "swedish": "efter"
+  },
+  {
+    "english": "back",
+    "swedish": "tillbaka"
+  },
+  {
+    "english": "little",
+    "swedish": "liten"
+  },
+  {
+    "english": "only",
+    "swedish": "endast"
+  },
+  {
+    "english": "round",
+    "swedish": "rund"
+  },
+  {
+    "english": "man",
+    "swedish": "människa"
+  },
+  {
+    "english": "year",
+    "swedish": "år"
+  },
+  {
+    "english": "came",
+    "swedish": "kom"
+  },
+  {
+    "english": "show",
+    "swedish": "visar"
+  },
+  {
+    "english": "every",
+    "swedish": "varje"
+  },
+  {
+    "english": "good",
+    "swedish": "bra"
+  },
+  {
+    "english": "me",
+    "swedish": "mig"
+  },
+  {
+    "english": "give",
+    "swedish": "ge"
+  },
+  {
+    "english": "our",
+    "swedish": "vår"
+  },
+  {
+    "english": "under",
+    "swedish": "enligt"
+  },
+  {
+    "english": "name",
+    "swedish": "namn"
+  },
+  {
+    "english": "very",
+    "swedish": "mycket"
+  },
+  {
+    "english": "through",
+    "swedish": "genom"
+  },
+  {
+    "english": "just",
+    "swedish": "bara"
+  },
+  {
+    "english": "form",
+    "swedish": "formulär"
+  },
+  {
+    "english": "sentence",
+    "swedish": "meningen"
+  },
+  {
+    "english": "great",
+    "swedish": "bra"
+  },
+  {
+    "english": "think",
+    "swedish": "tro"
+  },
+  {
+    "english": "say",
+    "swedish": "säga"
+  },
+  {
+    "english": "help",
+    "swedish": "hjälpa"
+  },
+  {
+    "english": "low",
+    "swedish": "låg"
+  },
+  {
+    "english": "line",
+    "swedish": "linje"
+  },
+  {
+    "english": "differ",
+    "swedish": "skiljer"
+  },
+  {
+    "english": "turn",
+    "swedish": "tur"
+  },
+  {
+    "english": "cause",
+    "swedish": "orsak"
+  },
+  {
+    "english": "much",
+    "swedish": "mycket"
+  },
+  {
+    "english": "mean",
+    "swedish": "betyda"
+  },
+  {
+    "english": "before",
+    "swedish": "före"
+  },
+  {
+    "english": "move",
+    "swedish": "drag"
+  },
+  {
+    "english": "right",
+    "swedish": "höger"
+  },
+  {
+    "english": "boy",
+    "swedish": "pojke"
+  },
+  {
+    "english": "old",
+    "swedish": "gammal"
+  },
+  {
+    "english": "too",
+    "swedish": "alltför"
+  },
+  {
+    "english": "same",
+    "swedish": "samma"
+  },
+  {
+    "english": "she",
+    "swedish": "hon"
+  },
+  {
+    "english": "all",
+    "swedish": "alla"
+  },
+  {
+    "english": "there",
+    "swedish": "där"
+  },
+  {
+    "english": "when",
+    "swedish": "när"
+  },
+  {
+    "english": "up",
+    "swedish": "upp"
+  },
+  {
+    "english": "use",
+    "swedish": "använda"
+  },
+  {
+    "english": "your",
+    "swedish": "din"
+  },
+  {
+    "english": "way",
+    "swedish": "sätt"
+  },
+  {
+    "english": "about",
+    "swedish": "ca"
+  },
+  {
+    "english": "many",
+    "swedish": "många"
+  },
+  {
+    "english": "bicycle shop",
+    "swedish": "<a href=\"https://lagacykeln.se/\" target=\"_blank\" rel=\"noopener\">cykelverkstad</a>"
+  },
+  {
+    "english": "them",
+    "swedish": "dem"
+  },
+  {
+    "english": "write",
+    "swedish": "skriva"
+  },
+  {
+    "english": "would",
+    "swedish": "skulle"
+  },
+  {
+    "english": "like",
+    "swedish": "liknande"
+  },
+  {
+    "english": "so",
+    "swedish": "så"
+  },
+  {
+    "english": "these",
+    "swedish": "dessa"
+  },
+  {
+    "english": "her",
+    "swedish": "hennes"
+  },
+  {
+    "english": "long",
+    "swedish": "lång"
+  },
+  {
+    "english": "make",
+    "swedish": "göra"
+  },
+  {
+    "english": "thing",
+    "swedish": "sak"
+  },
+  {
+    "english": "see",
+    "swedish": "se"
+  },
+  {
+    "english": "him",
+    "swedish": "honom"
+  },
+  {
+    "english": "two",
+    "swedish": "två"
+  },
+  {
+    "english": "has",
+    "swedish": "har"
+  },
+  {
+    "english": "look",
+    "swedish": "ser"
+  },
+  {
+    "english": "more",
+    "swedish": "mer"
+  },
+  {
+    "english": "day",
+    "swedish": "dag"
+  },
+  {
+    "english": "could",
+    "swedish": "kunde"
+  },
+  {
+    "english": "go",
+    "swedish": "gå"
+  },
+  {
+    "english": "come",
+    "swedish": "komma"
+  },
+  {
+    "english": "did",
+    "swedish": "gjorde"
+  },
+  {
+    "english": "number",
+    "swedish": "antal"
+  },
+  {
+    "english": "sound",
+    "swedish": "sund"
+  },
+  {
+    "english": "no",
+    "swedish": "nej"
+  },
+  {
+    "english": "most",
+    "swedish": "mest"
+  },
+  {
+    "english": "people",
+    "swedish": "människor"
+  },
+  {
+    "english": "my",
+    "swedish": "min"
+  },
+  {
+    "english": "over",
+    "swedish": "över"
+  },
+  {
+    "english": "know",
+    "swedish": "vet"
+  },
+  {
+    "english": "water",
+    "swedish": "vatten"
+  },
+  {
+    "english": "than",
+    "swedish": "än"
+  },
+  {
+    "english": "call",
+    "swedish": "samtal"
+  },
+  {
+    "english": "first",
+    "swedish": "först"
+  },
+  {
+    "english": "who",
+    "swedish": "som"
+  },
+  {
+    "english": "may",
+    "swedish": "får"
+  },
+  {
+    "english": "down",
+    "swedish": "ner"
+  },
+  {
+    "english": "side",
+    "swedish": "sida"
+  },
+  {
+    "english": "been",
+    "swedish": "varit"
+  },
+  {
+    "english": "now",
+    "swedish": "nu"
+  },
+  {
+    "english": "find",
+    "swedish": "hitta"
+  },
+  {
+    "english": "head",
+    "swedish": "huvud"
+  },
+  {
+    "english": "stand",
+    "swedish": "stå"
+  },
+  {
+    "english": "own",
+    "swedish": "egen"
+  },
+  {
+    "english": "page",
+    "swedish": "sida"
+  },
+  {
+    "english": "should",
+    "swedish": "bör"
+  },
+  {
+    "english": "country",
+    "swedish": "land"
+  },
+  {
+    "english": "found",
+    "swedish": "funnen"
+  },
+  {
+    "english": "answer",
+    "swedish": "svar"
+  },
+  {
+    "english": "school",
+    "swedish": "skola"
+  },
+  {
+    "english": "grow",
+    "swedish": "växa"
+  },
+  {
+    "english": "study",
+    "swedish": "studie"
+  },
+  {
+    "english": "still",
+    "swedish": "fortfarande"
+  },
+  {
+    "english": "learn",
+    "swedish": "lära"
+  },
+  {
+    "english": "plant",
+    "swedish": "växt"
+  },
+  {
+    "english": "cover",
+    "swedish": "lock"
+  },
+  {
+    "english": "food",
+    "swedish": "mat"
+  },
+  {
+    "english": "sun",
+    "swedish": "sol"
+  },
+  {
+    "english": "four",
+    "swedish": "fyra"
+  },
+  {
+    "english": "between",
+    "swedish": "mellan"
+  },
+  {
+    "english": "state",
+    "swedish": "tillstånd"
+  },
+  {
+    "english": "keep",
+    "swedish": "hålla"
+  },
+  {
+    "english": "eye",
+    "swedish": "öga"
+  },
+  {
+    "english": "never",
+    "swedish": "aldrig"
+  },
+  {
+    "english": "last",
+    "swedish": "sista"
+  },
+  {
+    "english": "let",
+    "swedish": "låt"
+  },
+  {
+    "english": "thought",
+    "swedish": "trodde"
+  },
+  {
+    "english": "city",
+    "swedish": "ort"
+  },
+  {
+    "english": "tree",
+    "swedish": "träd"
+  },
+  {
+    "english": "cross",
+    "swedish": "korsa"
+  },
+  {
+    "english": "farm",
+    "swedish": "gård"
+  },
+  {
+    "english": "hard",
+    "swedish": "hård"
+  },
+  {
+    "english": "start",
+    "swedish": "start"
+  },
+  {
+    "english": "might",
+    "swedish": "kanske"
+  },
+  {
+    "english": "story",
+    "swedish": "berättelse"
+  },
+  {
+    "english": "saw",
+    "swedish": "sågen"
+  },
+  {
+    "english": "far",
+    "swedish": "långt"
+  },
+  {
+    "english": "sea",
+    "swedish": "hav"
+  },
+  {
+    "english": "draw",
+    "swedish": "rita"
+  },
+  {
+    "english": "left",
+    "swedish": "vänster"
+  },
+  {
+    "english": "late",
+    "swedish": "sen"
+  },
+  {
+    "english": "run",
+    "swedish": "köra"
+  },
+  {
+    "english": "don’t",
+    "swedish": "inte"
+  },
+  {
+    "english": "while",
+    "swedish": "medan"
+  },
+  {
+    "english": "press",
+    "swedish": "tryck"
+  },
+  {
+    "english": "close",
+    "swedish": "nära"
+  },
+  {
+    "english": "night",
+    "swedish": "natt"
+  },
+  {
+    "english": "real",
+    "swedish": "verklig"
+  },
+  {
+    "english": "life",
+    "swedish": "liv"
+  },
+  {
+    "english": "few",
+    "swedish": "några"
+  },
+  {
+    "english": "north",
+    "swedish": "norr"
+  },
+  {
+    "english": "book",
+    "swedish": "boken"
+  },
+  {
+    "english": "carry",
+    "swedish": "bära"
+  },
+  {
+    "english": "took",
+    "swedish": "tog"
+  },
+  {
+    "english": "science",
+    "swedish": "vetenskap"
+  },
+  {
+    "english": "eat",
+    "swedish": "äta"
+  },
+  {
+    "english": "room",
+    "swedish": "rum"
+  },
+  {
+    "english": "friend",
+    "swedish": "vän"
+  },
+  {
+    "english": "began",
+    "swedish": "började"
+  },
+  {
+    "english": "idea",
+    "swedish": "idé"
+  },
+  {
+    "english": "fish",
+    "swedish": "fisk"
+  },
+  {
+    "english": "mountain",
+    "swedish": "berg"
+  },
+  {
+    "english": "stop",
+    "swedish": "stoppa"
+  },
+  {
+    "english": "once",
+    "swedish": "en gång"
+  },
+  {
+    "english": "base",
+    "swedish": "bas"
+  },
+  {
+    "english": "hear",
+    "swedish": "höra"
+  },
+  {
+    "english": "horse",
+    "swedish": "häst"
+  },
+  {
+    "english": "cut",
+    "swedish": "snitt"
+  },
+  {
+    "english": "sure",
+    "swedish": "säker"
+  },
+  {
+    "english": "watch",
+    "swedish": "klocka"
+  },
+  {
+    "english": "color",
+    "swedish": "färg"
+  },
+  {
+    "english": "face",
+    "swedish": "ansikte"
+  },
+  {
+    "english": "wood",
+    "swedish": "trä"
+  },
+  {
+    "english": "main",
+    "swedish": "huvud"
+  },
+  {
+    "english": "open",
+    "swedish": "öppen"
+  },
+  {
+    "english": "seem",
+    "swedish": "tyckas"
+  },
+  {
+    "english": "together",
+    "swedish": "tillsammans"
+  },
+  {
+    "english": "next",
+    "swedish": "nästa"
+  },
+  {
+    "english": "white",
+    "swedish": "vit"
+  },
+  {
+    "english": "children",
+    "swedish": "barn"
+  },
+  {
+    "english": "begin",
+    "swedish": "börja"
+  },
+  {
+    "english": "got",
+    "swedish": "fick"
+  },
+  {
+    "english": "walk",
+    "swedish": "gå"
+  },
+  {
+    "english": "example",
+    "swedish": "exempel"
+  },
+  {
+    "english": "ease",
+    "swedish": "lindra"
+  },
+  {
+    "english": "paper",
+    "swedish": "papper"
+  },
+  {
+    "english": "group",
+    "swedish": "grupp"
+  },
+  {
+    "english": "always",
+    "swedish": "alltid"
+  },
+  {
+    "english": "music",
+    "swedish": "musik"
+  },
+  {
+    "english": "those",
+    "swedish": "de som"
+  },
+  {
+    "english": "both",
+    "swedish": "båda"
+  },
+  {
+    "english": "mark",
+    "swedish": "märke"
+  },
+  {
+    "english": "often",
+    "swedish": "ofta"
+  },
+  {
+    "english": "letter",
+    "swedish": "bokstav"
+  },
+  {
+    "english": "until",
+    "swedish": "tills"
+  },
+  {
+    "english": "mile",
+    "swedish": "mil"
+  },
+  {
+    "english": "river",
+    "swedish": "flod"
+  },
+  {
+    "english": "car",
+    "swedish": "bil"
+  },
+  {
+    "english": "feet",
+    "swedish": "fot"
+  },
+  {
+    "english": "care",
+    "swedish": "vård"
+  },
+  {
+    "english": "second",
+    "swedish": "andra"
+  },
+  {
+    "english": "enough",
+    "swedish": "tillräckligt"
+  },
+  {
+    "english": "plain",
+    "swedish": "vanlig"
+  },
+  {
+    "english": "girl",
+    "swedish": "flicka"
+  },
+  {
+    "english": "usual",
+    "swedish": "vanligt"
+  },
+  {
+    "english": "young",
+    "swedish": "ung"
+  },
+  {
+    "english": "ready",
+    "swedish": "klar"
+  },
+  {
+    "english": "above",
+    "swedish": "ovan"
+  },
+  {
+    "english": "ever",
+    "swedish": "någonsin"
+  },
+  {
+    "english": "red",
+    "swedish": "röd"
+  },
+  {
+    "english": "list",
+    "swedish": "lista"
+  },
+  {
+    "english": "though",
+    "swedish": "though"
+  },
+  {
+    "english": "feel",
+    "swedish": "känna"
+  },
+  {
+    "english": "talk",
+    "swedish": "diskussion"
+  },
+  {
+    "english": "bird",
+    "swedish": "fågel"
+  },
+  {
+    "english": "soon",
+    "swedish": "snart"
+  },
+  {
+    "english": "body",
+    "swedish": "kropp"
+  },
+  {
+    "english": "dog",
+    "swedish": "hund"
+  },
+  {
+    "english": "family",
+    "swedish": "familj"
+  },
+  {
+    "english": "direct",
+    "swedish": "direkt"
+  },
+  {
+    "english": "pose",
+    "swedish": "pose"
+  },
+  {
+    "english": "leave",
+    "swedish": "lämna"
+  },
+  {
+    "english": "song",
+    "swedish": "sång"
+  },
+  {
+    "english": "measure",
+    "swedish": "mäta"
+  },
+  {
+    "english": "door",
+    "swedish": "dörr"
+  },
+  {
+    "english": "product",
+    "swedish": "produkt"
+  },
+  {
+    "english": "black",
+    "swedish": "svart"
+  },
+  {
+    "english": "short",
+    "swedish": "kort"
+  },
+  {
+    "english": "numeral",
+    "swedish": "siffran"
+  },
+  {
+    "english": "class",
+    "swedish": "klass"
+  },
+  {
+    "english": "wind",
+    "swedish": "vind"
+  },
+  {
+    "english": "question",
+    "swedish": "fråga"
+  },
+  {
+    "english": "happen",
+    "swedish": "hända"
+  },
+  {
+    "english": "complete",
+    "swedish": "fullständig"
+  },
+  {
+    "english": "ship",
+    "swedish": "skepp"
+  },
+  {
+    "english": "area",
+    "swedish": "område"
+  },
+  {
+    "english": "half",
+    "swedish": "halv"
+  },
+  {
+    "english": "rock",
+    "swedish": "vagga"
+  },
+  {
+    "english": "order",
+    "swedish": "för"
+  },
+  {
+    "english": "fire",
+    "swedish": "eld"
+  },
+  {
+    "english": "south",
+    "swedish": "söder"
+  },
+  {
+    "english": "problem",
+    "swedish": "problemet"
+  },
+  {
+    "english": "piece",
+    "swedish": "stycke"
+  },
+  {
+    "english": "told",
+    "swedish": "sa"
+  },
+  {
+    "english": "knew",
+    "swedish": "visste"
+  },
+  {
+    "english": "pass",
+    "swedish": "passera"
+  },
+  {
+    "english": "since",
+    "swedish": "sedan"
+  },
+  {
+    "english": "top",
+    "swedish": "topp"
+  },
+  {
+    "english": "whole",
+    "swedish": "hela"
+  },
+  {
+    "english": "king",
+    "swedish": "kung"
+  },
+  {
+    "english": "street",
+    "swedish": "gata"
+  },
+  {
+    "english": "inch",
+    "swedish": "tum"
+  },
+  {
+    "english": "multiply",
+    "swedish": "multiplicera"
+  },
+  {
+    "english": "nothing",
+    "swedish": "ingenting"
+  },
+  {
+    "english": "course",
+    "swedish": "Naturligtvis"
+  },
+  {
+    "english": "stay",
+    "swedish": "bo"
+  },
+  {
+    "english": "wheel",
+    "swedish": "hjul"
+  },
+  {
+    "english": "full",
+    "swedish": "fullständig"
+  },
+  {
+    "english": "force",
+    "swedish": "kraft"
+  },
+  {
+    "english": "blue",
+    "swedish": "blå"
+  },
+  {
+    "english": "object",
+    "swedish": "objektet"
+  },
+  {
+    "english": "decide",
+    "swedish": "besluta"
+  },
+  {
+    "english": "surface",
+    "swedish": "yta"
+  },
+  {
+    "english": "deep",
+    "swedish": "djup"
+  },
+  {
+    "english": "moon",
+    "swedish": "månen"
+  },
+  {
+    "english": "island",
+    "swedish": "ö"
+  },
+  {
+    "english": "foot",
+    "swedish": "fot"
+  },
+  {
+    "english": "system",
+    "swedish": "systemet"
+  },
+  {
+    "english": "busy",
+    "swedish": "upptagen"
+  },
+  {
+    "english": "test",
+    "swedish": "testet"
+  },
+  {
+    "english": "record",
+    "swedish": "register"
+  },
+  {
+    "english": "boat",
+    "swedish": "båt"
+  },
+  {
+    "english": "battery",
+    "swedish": "<a href=\"https://batteriman.se/\" target=\"_blank\" rel=\"noopener\">batteri</a>"
+  },
+  {
+    "english": "gold",
+    "swedish": "guld"
+  },
+  {
+    "english": "possible",
+    "swedish": "möjlig"
+  },
+  {
+    "english": "plane",
+    "swedish": "plan"
+  },
+  {
+    "english": "stead",
+    "swedish": "stead"
+  },
+  {
+    "english": "dry",
+    "swedish": "torka"
+  },
+  {
+    "english": "wonder",
+    "swedish": "undra"
+  },
+  {
+    "english": "laugh",
+    "swedish": "skratt"
+  },
+  {
+    "english": "thousand",
+    "swedish": "tusen"
+  },
+  {
+    "english": "ago",
+    "swedish": "sedan"
+  },
+  {
+    "english": "ran",
+    "swedish": "ran"
+  },
+  {
+    "english": "check",
+    "swedish": "ta"
+  },
+  {
+    "english": "game",
+    "swedish": "spel"
+  },
+  {
+    "english": "shape",
+    "swedish": "form"
+  },
+  {
+    "english": "equate",
+    "swedish": "likställa"
+  },
+  {
+    "english": "hot",
+    "swedish": "het"
+  },
+  {
+    "english": "miss",
+    "swedish": "miss"
+  },
+  {
+    "english": "brought",
+    "swedish": "bringas"
+  },
+  {
+    "english": "heat",
+    "swedish": "hetta"
+  },
+  {
+    "english": "snow",
+    "swedish": "snö"
+  },
+  {
+    "english": "tire",
+    "swedish": "däcket"
+  },
+  {
+    "english": "bring",
+    "swedish": "bringa"
+  },
+  {
+    "english": "yes",
+    "swedish": "ja"
+  },
+  {
+    "english": "distant",
+    "swedish": "avlägsen"
+  },
+  {
+    "english": "fill",
+    "swedish": "fylla"
+  },
+  {
+    "english": "east",
+    "swedish": "öst"
+  },
+  {
+    "english": "paint",
+    "swedish": "måla"
+  },
+  {
+    "english": "language",
+    "swedish": "språk"
+  },
+  {
+    "english": "among",
+    "swedish": "bland"
+  },
+  {
+    "english": "unit",
+    "swedish": "enhet"
+  },
+  {
+    "english": "power",
+    "swedish": "kraft"
+  },
+  {
+    "english": "town",
+    "swedish": "stad"
+  },
+  {
+    "english": "fine",
+    "swedish": "fin"
+  },
+  {
+    "english": "certain",
+    "swedish": "viss"
+  },
+  {
+    "english": "fly",
+    "swedish": "flyga"
+  },
+  {
+    "english": "fall",
+    "swedish": "falla"
+  },
+  {
+    "english": "lead",
+    "swedish": "bly"
+  },
+  {
+    "english": "cry",
+    "swedish": "rop"
+  },
+  {
+    "english": "dark",
+    "swedish": "mörk"
+  },
+  {
+    "english": "machine",
+    "swedish": "maskin"
+  },
+  {
+    "english": "note",
+    "swedish": "anteckning"
+  },
+  {
+    "english": "wait",
+    "swedish": "vänta"
+  },
+  {
+    "english": "plan",
+    "swedish": "planen"
+  },
+  {
+    "english": "figure",
+    "swedish": "figur"
+  },
+  {
+    "english": "star",
+    "swedish": "stjärna"
+  },
+  {
+    "english": "box",
+    "swedish": "låda"
+  },
+  {
+    "english": "noun",
+    "swedish": "subst"
+  },
+  {
+    "english": "field",
+    "swedish": "fält"
+  },
+  {
+    "english": "rest",
+    "swedish": "resten"
+  },
+  {
+    "english": "correct",
+    "swedish": "korrekt"
+  },
+  {
+    "english": "able",
+    "swedish": "kunna"
+  },
+  {
+    "english": "pound",
+    "swedish": "pund"
+  },
+  {
+    "english": "done",
+    "swedish": "klar"
+  },
+  {
+    "english": "beauty",
+    "swedish": "skönhet"
+  },
+  {
+    "english": "drive",
+    "swedish": "enhet"
+  },
+  {
+    "english": "stood",
+    "swedish": "stod"
+  },
+  {
+    "english": "contain",
+    "swedish": "innehålla"
+  },
+  {
+    "english": "front",
+    "swedish": "främre"
+  },
+  {
+    "english": "teach",
+    "swedish": "undervisa"
+  },
+  {
+    "english": "week",
+    "swedish": "vecka"
+  },
+  {
+    "english": "final",
+    "swedish": "slutlig"
+  },
+  {
+    "english": "gave",
+    "swedish": "gav"
+  },
+  {
+    "english": "green",
+    "swedish": "grön"
+  },
+  {
+    "english": "oh",
+    "swedish": "ack"
+  },
+  {
+    "english": "quick",
+    "swedish": "sammanfattning"
+  },
+  {
+    "english": "develop",
+    "swedish": "utveckla"
+  },
+  {
+    "english": "ocean",
+    "swedish": "ocean"
+  },
+  {
+    "english": "warm",
+    "swedish": "varm"
+  },
+  {
+    "english": "free",
+    "swedish": "fri"
+  },
+  {
+    "english": "minute",
+    "swedish": "minut"
+  },
+  {
+    "english": "strong",
+    "swedish": "stark"
+  },
+  {
+    "english": "special",
+    "swedish": "speciell"
+  },
+  {
+    "english": "mind",
+    "swedish": "sinne"
+  },
+  {
+    "english": "behind",
+    "swedish": "bakom"
+  },
+  {
+    "english": "clear",
+    "swedish": "klar"
+  },
+  {
+    "english": "tail",
+    "swedish": "svans"
+  },
+  {
+    "english": "produce",
+    "swedish": "producera"
+  },
+  {
+    "english": "fact",
+    "swedish": "faktum"
+  },
+  {
+    "english": "space",
+    "swedish": "space"
+  },
+  {
+    "english": "heard",
+    "swedish": "hört"
+  },
+  {
+    "english": "best",
+    "swedish": "bäst"
+  },
+  {
+    "english": "hour",
+    "swedish": "timme"
+  },
+  {
+    "english": "better",
+    "swedish": "bättre"
+  },
+  {
+    "english": "true",
+    "swedish": "SANT"
+  },
+  {
+    "english": "during",
+    "swedish": "under"
+  },
+  {
+    "english": "hundred",
+    "swedish": "hundra"
+  },
+  {
+    "english": "five",
+    "swedish": "fem"
+  },
+  {
+    "english": "remember",
+    "swedish": "minnas"
+  },
+  {
+    "english": "step",
+    "swedish": "steg"
+  },
+  {
+    "english": "early",
+    "swedish": "tidig"
+  },
+  {
+    "english": "hold",
+    "swedish": "håll"
+  },
+  {
+    "english": "west",
+    "swedish": "väster"
+  },
+  {
+    "english": "ground",
+    "swedish": "jord"
+  },
+  {
+    "english": "interest",
+    "swedish": "intresse"
+  },
+  {
+    "english": "reach",
+    "swedish": "nå"
+  },
+  {
+    "english": "fast",
+    "swedish": "snabb"
+  },
+  {
+    "english": "verb",
+    "swedish": "verb"
+  },
+  {
+    "english": "sing",
+    "swedish": "sjunger"
+  },
+  {
+    "english": "listen",
+    "swedish": "lyssna"
+  },
+  {
+    "english": "six",
+    "swedish": "sex"
+  },
+  {
+    "english": "table",
+    "swedish": "tabell"
+  },
+  {
+    "english": "travel",
+    "swedish": "resor"
+  },
+  {
+    "english": "less",
+    "swedish": "mindre"
+  },
+  {
+    "english": "morning",
+    "swedish": "morgon"
+  },
+  {
+    "english": "ten",
+    "swedish": "tio"
+  },
+  {
+    "english": "simple",
+    "swedish": "enkel"
+  },
+  {
+    "english": "several",
+    "swedish": "flera"
+  },
+  {
+    "english": "vowel",
+    "swedish": "vokal"
+  },
+  {
+    "english": "toward",
+    "swedish": "mot"
+  },
+  {
+    "english": "war",
+    "swedish": "krig"
+  },
+  {
+    "english": "lay",
+    "swedish": "låg"
+  },
+  {
+    "english": "against",
+    "swedish": "mot"
+  },
+  {
+    "english": "pattern",
+    "swedish": "mönster"
+  },
+  {
+    "english": "slow",
+    "swedish": "långsam"
+  },
+  {
+    "english": "center",
+    "swedish": "centrum"
+  },
+  {
+    "english": "love",
+    "swedish": "kärlek"
+  },
+  {
+    "english": "person",
+    "swedish": "personen"
+  },
+  {
+    "english": "money",
+    "swedish": "pengar"
+  },
+  {
+    "english": "serve",
+    "swedish": "tjäna"
+  },
+  {
+    "english": "appear",
+    "swedish": "synas"
+  },
+  {
+    "english": "road",
+    "swedish": "väg"
+  },
+  {
+    "english": "map",
+    "swedish": "karta"
+  },
+  {
+    "english": "rain",
+    "swedish": "regn"
+  },
+  {
+    "english": "rule",
+    "swedish": "regel"
+  },
+  {
+    "english": "govern",
+    "swedish": "regera"
+  },
+  {
+    "english": "pull",
+    "swedish": "dra"
+  },
+  {
+    "english": "cold",
+    "swedish": "förkylning"
+  },
+  {
+    "english": "notice",
+    "swedish": "meddelande"
+  },
+  {
+    "english": "voice",
+    "swedish": "röst"
+  },
+  {
+    "english": "energy",
+    "swedish": "energi"
+  },
+  {
+    "english": "hunt",
+    "swedish": "jakt"
+  },
+  {
+    "english": "probable",
+    "swedish": "trolig"
+  },
+  {
+    "english": "bed",
+    "swedish": "bädd"
+  },
+  {
+    "english": "brother",
+    "swedish": "bror"
+  },
+  {
+    "english": "egg",
+    "swedish": "ägg"
+  },
+  {
+    "english": "ride",
+    "swedish": "ritt"
+  },
+  {
+    "english": "cell",
+    "swedish": "cell"
+  },
+  {
+    "english": "believe",
+    "swedish": "tro"
+  },
+  {
+    "english": "perhaps",
+    "swedish": "kanske"
+  },
+  {
+    "english": "pick",
+    "swedish": "plocka"
+  },
+  {
+    "english": "sudden",
+    "swedish": "plötslig"
+  },
+  {
+    "english": "count",
+    "swedish": "räkna"
+  },
+  {
+    "english": "square",
+    "swedish": "kvadrat"
+  },
+  {
+    "english": "reason",
+    "swedish": "anledningen"
+  },
+  {
+    "english": "length",
+    "swedish": "längd"
+  },
+  {
+    "english": "represent",
+    "swedish": "representerar"
+  },
+  {
+    "english": "art",
+    "swedish": "teknikområdet"
+  },
+  {
+    "english": "subject",
+    "swedish": "ämne"
+  },
+  {
+    "english": "region",
+    "swedish": "region"
+  },
+  {
+    "english": "size",
+    "swedish": "storlek"
+  },
+  {
+    "english": "vary",
+    "swedish": "varierar"
+  },
+  {
+    "english": "settle",
+    "swedish": "sedimentera"
+  },
+  {
+    "english": "speak",
+    "swedish": "tala"
+  },
+  {
+    "english": "weight",
+    "swedish": "vikt"
+  },
+  {
+    "english": "general",
+    "swedish": "allmän"
+  },
+  {
+    "english": "ice",
+    "swedish": "is"
+  },
+  {
+    "english": "matter",
+    "swedish": "materia"
+  },
+  {
+    "english": "circle",
+    "swedish": "cirkel"
+  },
+  {
+    "english": "pair",
+    "swedish": "par"
+  },
+  {
+    "english": "include",
+    "swedish": "inkluderar"
+  },
+  {
+    "english": "divide",
+    "swedish": "divide"
+  },
+  {
+    "english": "syllable",
+    "swedish": "stavelse"
+  },
+  {
+    "english": "felt",
+    "swedish": "kände"
+  },
+  {
+    "english": "grand",
+    "swedish": "stors"
+  },
+  {
+    "english": "ball",
+    "swedish": "boll"
+  },
+  {
+    "english": "yet",
+    "swedish": "ännu"
+  },
+  {
+    "english": "wave",
+    "swedish": "våg"
+  },
+  {
+    "english": "drop",
+    "swedish": "släpp"
+  },
+  {
+    "english": "heart",
+    "swedish": "hjärta"
+  },
+  {
+    "english": "am",
+    "swedish": "jag"
+  },
+  {
+    "english": "present",
+    "swedish": "föreliggande"
+  },
+  {
+    "english": "heavy",
+    "swedish": "tung"
+  },
+  {
+    "english": "dance",
+    "swedish": "dans"
+  },
+  {
+    "english": "engine",
+    "swedish": "motor"
+  },
+  {
+    "english": "position",
+    "swedish": "ställning"
+  },
+  {
+    "english": "arm",
+    "swedish": "beväpnar"
+  },
+  {
+    "english": "wide",
+    "swedish": "bred"
+  },
+  {
+    "english": "sail",
+    "swedish": "segel"
+  },
+  {
+    "english": "material",
+    "swedish": "materialet"
+  },
+  {
+    "english": "fraction",
+    "swedish": "fraktion"
+  },
+  {
+    "english": "forest",
+    "swedish": "skog"
+  },
+  {
+    "english": "sit",
+    "swedish": "sitta"
+  },
+  {
+    "english": "race",
+    "swedish": "ras"
+  },
+  {
+    "english": "window",
+    "swedish": "fönster"
+  },
+  {
+    "english": "store",
+    "swedish": "lagra"
+  },
+  {
+    "english": "summer",
+    "swedish": "sommar"
+  },
+  {
+    "english": "train",
+    "swedish": "tåg"
+  },
+  {
+    "english": "sleep",
+    "swedish": "sömn"
+  },
+  {
+    "english": "prove",
+    "swedish": "bevisa"
+  },
+  {
+    "english": "lone",
+    "swedish": "ensam"
+  },
+  {
+    "english": "leg",
+    "swedish": "ben"
+  },
+  {
+    "english": "exercise",
+    "swedish": "övning"
+  },
+  {
+    "english": "wall",
+    "swedish": "vägg"
+  },
+  {
+    "english": "catch",
+    "swedish": "fångst"
+  },
+  {
+    "english": "mount",
+    "swedish": "fäste"
+  },
+  {
+    "english": "wish",
+    "swedish": "vill"
+  },
+  {
+    "english": "sky",
+    "swedish": "himmelsblå"
+  },
+  {
+    "english": "board",
+    "swedish": "ombord"
+  },
+  {
+    "english": "joy",
+    "swedish": "glädje"
+  },
+  {
+    "english": "winter",
+    "swedish": "vinter"
+  },
+  {
+    "english": "sat",
+    "swedish": "satellit"
+  },
+  {
+    "english": "written",
+    "swedish": "skriven"
+  },
+  {
+    "english": "wild",
+    "swedish": "vild"
+  },
+  {
+    "english": "instrument",
+    "swedish": "instrumentet"
+  },
+  {
+    "english": "kept",
+    "swedish": "hålls"
+  },
+  {
+    "english": "glass",
+    "swedish": "glas"
+  },
+  {
+    "english": "grass",
+    "swedish": "gräs"
+  },
+  {
+    "english": "cow",
+    "swedish": "ko"
+  },
+  {
+    "english": "job",
+    "swedish": "jobb"
+  },
+  {
+    "english": "edge",
+    "swedish": "kanten"
+  },
+  {
+    "english": "sign",
+    "swedish": "tecken"
+  },
+  {
+    "english": "visit",
+    "swedish": "besök"
+  },
+  {
+    "english": "past",
+    "swedish": "förbi"
+  },
+  {
+    "english": "soft",
+    "swedish": "mjuk"
+  },
+  {
+    "english": "fun",
+    "swedish": "kul"
+  },
+  {
+    "english": "bright",
+    "swedish": "ljust"
+  },
+  {
+    "english": "gas",
+    "swedish": "gas"
+  },
+  {
+    "english": "weather",
+    "swedish": "väder"
+  },
+  {
+    "english": "month",
+    "swedish": "månad"
+  },
+  {
+    "english": "million",
+    "swedish": "miljoner"
+  },
+  {
+    "english": "bear",
+    "swedish": "bära"
+  },
+  {
+    "english": "finish",
+    "swedish": "yta"
+  },
+  {
+    "english": "happy",
+    "swedish": "lycklig"
+  },
+  {
+    "english": "hope",
+    "swedish": "hoppas"
+  },
+  {
+    "english": "flower delivery",
+    "swedish": "<a href=\"https://nordiskablombud.se/\" target=\"_blank\" rel=\"noopener\">blombud</a>"
+  },
+  {
+    "english": "clothe",
+    "swedish": "kläder"
+  },
+  {
+    "english": "strange",
+    "swedish": "främmande"
+  },
+  {
+    "english": "gone",
+    "swedish": "borta"
+  },
+  {
+    "english": "trade",
+    "swedish": "handel"
+  },
+  {
+    "english": "melody",
+    "swedish": "melodi"
+  },
+  {
+    "english": "trip",
+    "swedish": "resa"
+  },
+  {
+    "english": "office",
+    "swedish": "kontor"
+  },
+  {
+    "english": "receive",
+    "swedish": "motta"
+  },
+  {
+    "english": "row",
+    "swedish": "rad"
+  },
+  {
+    "english": "mouth",
+    "swedish": "mun"
+  },
+  {
+    "english": "exact",
+    "swedish": "exakta"
+  },
+  {
+    "english": "symbol",
+    "swedish": "symbol"
+  },
+  {
+    "english": "die",
+    "swedish": "dö"
+  },
+  {
+    "english": "least",
+    "swedish": "minst"
+  },
+  {
+    "english": "trouble",
+    "swedish": "besvär"
+  },
+  {
+    "english": "shout",
+    "swedish": "rop"
+  },
+  {
+    "english": "except",
+    "swedish": "utom"
+  },
+  {
+    "english": "wrote",
+    "swedish": "skrev"
+  },
+  {
+    "english": "seed",
+    "swedish": "frö"
+  },
+  {
+    "english": "tone",
+    "swedish": "ton"
+  },
+  {
+    "english": "join",
+    "swedish": "ansluta"
+  },
+  {
+    "english": "suggest",
+    "swedish": "föreslår"
+  },
+  {
+    "english": "clean",
+    "swedish": "ren"
+  },
+  {
+    "english": "break",
+    "swedish": "paus"
+  },
+  {
+    "english": "lady",
+    "swedish": "damen"
+  },
+  {
+    "english": "yard",
+    "swedish": "gård"
+  },
+  {
+    "english": "rise",
+    "swedish": "stiga"
+  },
+  {
+    "english": "bad",
+    "swedish": "dålig"
+  },
+  {
+    "english": "blow",
+    "swedish": "smäll"
+  },
+  {
+    "english": "oil",
+    "swedish": "olja"
+  },
+  {
+    "english": "blood",
+    "swedish": "blod"
+  },
+  {
+    "english": "touch",
+    "swedish": "Rör"
+  },
+  {
+    "english": "grew",
+    "swedish": "växte"
+  },
+  {
+    "english": "cent",
+    "swedish": "cent"
+  },
+  {
+    "english": "mix",
+    "swedish": "blanda"
+  },
+  {
+    "english": "team",
+    "swedish": "lag"
+  },
+  {
+    "english": "wire",
+    "swedish": "tråd"
+  },
+  {
+    "english": "cost",
+    "swedish": "kostnad"
+  },
+  {
+    "english": "lost",
+    "swedish": "förlorat"
+  },
+  {
+    "english": "brown",
+    "swedish": "brun"
+  },
+  {
+    "english": "wear",
+    "swedish": "slitage"
+  },
+  {
+    "english": "garden",
+    "swedish": "trädgård"
+  },
+  {
+    "english": "equal",
+    "swedish": "lika"
+  },
+  {
+    "english": "sent",
+    "swedish": "skickat"
+  },
+  {
+    "english": "choose",
+    "swedish": "välja"
+  },
+  {
+    "english": "fell",
+    "swedish": "föll"
+  },
+  {
+    "english": "fit",
+    "swedish": "passa"
+  },
+  {
+    "english": "flow",
+    "swedish": "flöde"
+  },
+  {
+    "english": "fair",
+    "swedish": "verkligt"
+  },
+  {
+    "english": "bank",
+    "swedish": "bank"
+  },
+  {
+    "english": "collect",
+    "swedish": "samla"
+  },
+  {
+    "english": "save",
+    "swedish": "spara"
+  },
+  {
+    "english": "control",
+    "swedish": "kontroll"
+  },
+  {
+    "english": "decimal",
+    "swedish": "decimala"
+  },
+  {
+    "english": "ear",
+    "swedish": "örat"
+  },
+  {
+    "english": "else",
+    "swedish": "annars"
+  },
+  {
+    "english": "quite",
+    "swedish": "ganska"
+  },
+  {
+    "english": "broke",
+    "swedish": "bröt"
+  },
+  {
+    "english": "case",
+    "swedish": "fall"
+  },
+  {
+    "english": "middle",
+    "swedish": "mitten"
+  },
+  {
+    "english": "kill",
+    "swedish": "döda"
+  },
+  {
+    "english": "son",
+    "swedish": "son"
+  },
+  {
+    "english": "lake",
+    "swedish": "sjö"
+  },
+  {
+    "english": "moment",
+    "swedish": "ögonblick"
+  },
+  {
+    "english": "scale",
+    "swedish": "skala"
+  },
+  {
+    "english": "loud",
+    "swedish": "högt"
+  },
+  {
+    "english": "spring",
+    "swedish": "fjäder"
+  },
+  {
+    "english": "observe",
+    "swedish": "observera"
+  },
+  {
+    "english": "child",
+    "swedish": "barn"
+  },
+  {
+    "english": "straight",
+    "swedish": "rak"
+  },
+  {
+    "english": "consonant",
+    "swedish": "konsonant"
+  },
+  {
+    "english": "nation",
+    "swedish": "nation"
+  },
+  {
+    "english": "dictionary",
+    "swedish": "ordbok"
+  },
+  {
+    "english": "milk",
+    "swedish": "mjölk"
+  },
+  {
+    "english": "speed",
+    "swedish": "hastighet"
+  },
+  {
+    "english": "method",
+    "swedish": "metod"
+  },
+  {
+    "english": "organ",
+    "swedish": "organ"
+  },
+  {
+    "english": "pay",
+    "swedish": "betala"
+  },
+  {
+    "english": "age",
+    "swedish": "okänd"
+  },
+  {
+    "english": "section",
+    "swedish": "sektion"
+  },
+  {
+    "english": "dress",
+    "swedish": "klänning"
+  },
+  {
+    "english": "cloud",
+    "swedish": "moln"
+  },
+  {
+    "english": "surprise",
+    "swedish": "överraskning"
+  },
+  {
+    "english": "quiet",
+    "swedish": "ro"
+  },
+  {
+    "english": "stone",
+    "swedish": "sten"
+  },
+  {
+    "english": "tiny",
+    "swedish": "liten"
+  },
+  {
+    "english": "climb",
+    "swedish": "klättra"
+  },
+  {
+    "english": "cool",
+    "swedish": "sval"
+  },
+  {
+    "english": "design",
+    "swedish": "konstruktion"
+  },
+  {
+    "english": "poor",
+    "swedish": "dålig"
+  },
+  {
+    "english": "lot",
+    "swedish": "mycket"
+  },
+  {
+    "english": "experiment",
+    "swedish": "experiment"
+  },
+  {
+    "english": "bottom",
+    "swedish": "botten"
+  },
+  {
+    "english": "key",
+    "swedish": "nyckel"
+  },
+  {
+    "english": "iron",
+    "swedish": "järn"
+  },
+  {
+    "english": "single",
+    "swedish": "singel"
+  },
+  {
+    "english": "stick",
+    "swedish": "pinne"
+  },
+  {
+    "english": "flat",
+    "swedish": "platt"
+  },
+  {
+    "english": "twenty",
+    "swedish": "tjugo"
+  },
+  {
+    "english": "skin",
+    "swedish": "hud"
+  },
+  {
+    "english": "smile",
+    "swedish": "le"
+  },
+  {
+    "english": "crease",
+    "swedish": "veck"
+  },
+  {
+    "english": "hole",
+    "swedish": "hål"
+  },
+  {
+    "english": "jump",
+    "swedish": "hoppa"
+  },
+  {
+    "english": "baby",
+    "swedish": "barn"
+  },
+  {
+    "english": "eight",
+    "swedish": "åtta"
+  },
+  {
+    "english": "village",
+    "swedish": "by"
+  },
+  {
+    "english": "meet",
+    "swedish": "möts"
+  },
+  {
+    "english": "root",
+    "swedish": "rot"
+  },
+  {
+    "english": "buy",
+    "swedish": "köpa"
+  },
+  {
+    "english": "raise",
+    "swedish": "höja"
+  },
+  {
+    "english": "solve",
+    "swedish": "lösa"
+  },
+  {
+    "english": "metal",
+    "swedish": "metall"
+  },
+  {
+    "english": "whether",
+    "swedish": "huruvida"
+  },
+  {
+    "english": "push",
+    "swedish": "tryck"
+  },
+  {
+    "english": "seven",
+    "swedish": "sju"
+  },
+  {
+    "english": "paragraph",
+    "swedish": "punkt"
+  },
+  {
+    "english": "third",
+    "swedish": "tredje"
+  },
+  {
+    "english": "shall",
+    "swedish": "skall"
+  },
+  {
+    "english": "held",
+    "swedish": "vänt"
+  },
+  {
+    "english": "hair",
+    "swedish": "hår"
+  },
+  {
+    "english": "describe",
+    "swedish": "beskriva"
+  },
+  {
+    "english": "cook",
+    "swedish": "kock"
+  },
+  {
+    "english": "floor",
+    "swedish": "våningen"
+  },
+  {
+    "english": "either",
+    "swedish": "antingen"
+  },
+  {
+    "english": "result",
+    "swedish": "resultat"
+  },
+  {
+    "english": "burn",
+    "swedish": "bränna"
+  },
+  {
+    "english": "hill",
+    "swedish": "kulle"
+  },
+  {
+    "english": "safe",
+    "swedish": "säker"
+  },
+  {
+    "english": "cat",
+    "swedish": "cat"
+  },
+  {
+    "english": "century",
+    "swedish": "talet"
+  },
+  {
+    "english": "consider",
+    "swedish": "överväga"
+  },
+  {
+    "english": "type",
+    "swedish": "typ"
+  },
+  {
+    "english": "law",
+    "swedish": "lag"
+  },
+  {
+    "english": "bit",
+    "swedish": "bitars"
+  },
+  {
+    "english": "coast",
+    "swedish": "kust"
+  },
+  {
+    "english": "copy",
+    "swedish": "kopia"
+  },
+  {
+    "english": "phrase",
+    "swedish": "fras"
+  },
+  {
+    "english": "silent",
+    "swedish": "tyst"
+  },
+  {
+    "english": "tall",
+    "swedish": "tall"
+  },
+  {
+    "english": "sand",
+    "swedish": "sand"
+  },
+  {
+    "english": "soil",
+    "swedish": "jord"
+  },
+  {
+    "english": "roll",
+    "swedish": "rulle"
+  },
+  {
+    "english": "temperature",
+    "swedish": "temperatur"
+  },
+  {
+    "english": "finger",
+    "swedish": "finger"
+  },
+  {
+    "english": "industry",
+    "swedish": "industrin"
+  },
+  {
+    "english": "value",
+    "swedish": "värde"
+  },
+  {
+    "english": "fight",
+    "swedish": "slagsmål"
+  },
+  {
+    "english": "lie",
+    "swedish": "lie"
+  },
+  {
+    "english": "beat",
+    "swedish": "slå"
+  },
+  {
+    "english": "excite",
+    "swedish": "excitera"
+  },
+  {
+    "english": "natural",
+    "swedish": "naturlig"
+  },
+  {
+    "english": "view",
+    "swedish": "vy"
+  },
+  {
+    "english": "sense",
+    "swedish": "känsla"
+  },
+  {
+    "english": "capital",
+    "swedish": "kapital"
+  },
+  {
+    "english": "won’t",
+    "swedish": "kommer inte"
+  },
+  {
+    "english": "chair",
+    "swedish": "stol"
+  },
+  {
+    "english": "danger",
+    "swedish": "fara"
+  },
+  {
+    "english": "fruit",
+    "swedish": "frukt"
+  },
+  {
+    "english": "rich",
+    "swedish": "rik"
+  },
+  {
+    "english": "thick",
+    "swedish": "tjock"
+  },
+  {
+    "english": "soldier",
+    "swedish": "soldat"
+  },
+  {
+    "english": "process",
+    "swedish": "processen"
+  },
+  {
+    "english": "operate",
+    "swedish": "fungera"
+  },
+  {
+    "english": "practice",
+    "swedish": "praktiken"
+  },
+  {
+    "english": "separate",
+    "swedish": "separat"
+  },
+  {
+    "english": "difficult",
+    "swedish": "svårt"
+  },
+  {
+    "english": "doctor",
+    "swedish": "läkare"
+  },
+  {
+    "english": "please",
+    "swedish": "vänligen"
+  },
+  {
+    "english": "protect",
+    "swedish": "skydda"
+  },
+  {
+    "english": "noon",
+    "swedish": "middagstid"
+  },
+  {
+    "english": "crop",
+    "swedish": "gröda"
+  },
+  {
+    "english": "modern",
+    "swedish": "moderna"
+  },
+  {
+    "english": "element",
+    "swedish": "elementet"
+  },
+  {
+    "english": "hit",
+    "swedish": "hit"
+  },
+  {
+    "english": "student",
+    "swedish": "studenten"
+  },
+  {
+    "english": "corner",
+    "swedish": "hörn"
+  },
+  {
+    "english": "party",
+    "swedish": "parti"
+  },
+  {
+    "english": "supply",
+    "swedish": "försörjning"
+  },
+  {
+    "english": "whose",
+    "swedish": "vars"
+  },
+  {
+    "english": "locate",
+    "swedish": "lokalisera"
+  },
+  {
+    "english": "ring",
+    "swedish": "ring"
+  },
+  {
+    "english": "character",
+    "swedish": "karaktär"
+  },
+  {
+    "english": "insect",
+    "swedish": "insekt"
+  },
+  {
+    "english": "caught",
+    "swedish": "fångad"
+  },
+  {
+    "english": "period",
+    "swedish": "period"
+  },
+  {
+    "english": "indicate",
+    "swedish": "indikerar"
+  },
+  {
+    "english": "radio",
+    "swedish": "radio"
+  },
+  {
+    "english": "spoke",
+    "swedish": "talade"
+  },
+  {
+    "english": "atom",
+    "swedish": "atomen"
+  },
+  {
+    "english": "human",
+    "swedish": "humant"
+  },
+  {
+    "english": "history",
+    "swedish": "historia"
+  },
+  {
+    "english": "effect",
+    "swedish": "effekt"
+  },
+  {
+    "english": "electric",
+    "swedish": "elektrisk"
+  },
+  {
+    "english": "expect",
+    "swedish": "förvänta"
+  },
+  {
+    "english": "bone",
+    "swedish": "ben"
+  },
+  {
+    "english": "rail",
+    "swedish": "skena"
+  },
+  {
+    "english": "imagine",
+    "swedish": "föreställa sig"
+  },
+  {
+    "english": "provide",
+    "swedish": "tillhandahålla"
+  },
+  {
+    "english": "agree",
+    "swedish": "enas"
+  },
+  {
+    "english": "thus",
+    "swedish": "sålunda"
+  },
+  {
+    "english": "gentle",
+    "swedish": "mild"
+  },
+  {
+    "english": "woman",
+    "swedish": "kvinna"
+  },
+  {
+    "english": "captain",
+    "swedish": "kapten"
+  },
+  {
+    "english": "guess",
+    "swedish": "gissa"
+  },
+  {
+    "english": "necessary",
+    "swedish": "nödvändig"
+  },
+  {
+    "english": "sharp",
+    "swedish": "skarp"
+  },
+  {
+    "english": "wing",
+    "swedish": "vinge"
+  },
+  {
+    "english": "create",
+    "swedish": "skapa"
+  },
+  {
+    "english": "neighbor",
+    "swedish": "granne"
+  },
+  {
+    "english": "wash",
+    "swedish": "tvätt"
+  },
+  {
+    "english": "bat",
+    "swedish": "slagträ"
+  },
+  {
+    "english": "rather",
+    "swedish": "snarare"
+  },
+  {
+    "english": "crowd",
+    "swedish": "publiken"
+  },
+  {
+    "english": "corn",
+    "swedish": "majs"
+  },
+  {
+    "english": "compare",
+    "swedish": "jämföra"
+  },
+  {
+    "english": "poem",
+    "swedish": "dikt"
+  },
+  {
+    "english": "string",
+    "swedish": "sträng"
+  },
+  {
+    "english": "bell",
+    "swedish": "klocka"
+  },
+  {
+    "english": "depend",
+    "swedish": "bero"
+  },
+  {
+    "english": "meat",
+    "swedish": "kött"
+  },
+  {
+    "english": "rub",
+    "swedish": "gnida"
+  },
+  {
+    "english": "tube",
+    "swedish": "röret"
+  },
+  {
+    "english": "famous",
+    "swedish": "känd"
+  },
+  {
+    "english": "dollar",
+    "swedish": "dollarn"
+  },
+  {
+    "english": "stream",
+    "swedish": "ström"
+  },
+  {
+    "english": "fear",
+    "swedish": "rädsla"
+  },
+  {
+    "english": "sight",
+    "swedish": "syn"
+  },
+  {
+    "english": "thin",
+    "swedish": "tunn"
+  },
+  {
+    "english": "triangle",
+    "swedish": "triangel"
+  },
+  {
+    "english": "planet",
+    "swedish": "planet"
+  },
+  {
+    "english": "hurry",
+    "swedish": "skynda"
+  },
+  {
+    "english": "chief",
+    "swedish": "chef"
+  },
+  {
+    "english": "colony",
+    "swedish": "koloni"
+  },
+  {
+    "english": "clock",
+    "swedish": "klocka"
+  },
+  {
+    "english": "mine",
+    "swedish": "gruva"
+  },
+  {
+    "english": "tie",
+    "swedish": "slips"
+  },
+  {
+    "english": "enter",
+    "swedish": "ange"
+  },
+  {
+    "english": "major",
+    "swedish": "större"
+  },
+  {
+    "english": "fresh",
+    "swedish": "färsk"
+  },
+  {
+    "english": "search",
+    "swedish": "sök"
+  },
+  {
+    "english": "send",
+    "swedish": "skicka"
+  },
+  {
+    "english": "yellow",
+    "swedish": "gul"
+  },
+  {
+    "english": "gun",
+    "swedish": "pistol"
+  },
+  {
+    "english": "allow",
+    "swedish": "tillåta"
+  },
+  {
+    "english": "print",
+    "swedish": "tryck"
+  },
+  {
+    "english": "dead",
+    "swedish": "död"
+  },
+  {
+    "english": "spot",
+    "swedish": "fläck"
+  },
+  {
+    "english": "desert",
+    "swedish": "öken"
+  },
+  {
+    "english": "suit",
+    "swedish": "kostym"
+  },
+  {
+    "english": "current",
+    "swedish": "ström"
+  },
+  {
+    "english": "lift",
+    "swedish": "lift"
+  },
+  {
+    "english": "rose",
+    "swedish": "ros"
+  },
+  {
+    "english": "arrive",
+    "swedish": "anländer"
+  },
+  {
+    "english": "master",
+    "swedish": "mästare"
+  },
+  {
+    "english": "track",
+    "swedish": "spår"
+  },
+  {
+    "english": "parent",
+    "swedish": "förälder"
+  },
+  {
+    "english": "shore",
+    "swedish": "stranden"
+  },
+  {
+    "english": "division",
+    "swedish": "delning"
+  },
+  {
+    "english": "sheet",
+    "swedish": "ark"
+  },
+  {
+    "english": "substance",
+    "swedish": "substans"
+  },
+  {
+    "english": "favor",
+    "swedish": "gynna"
+  },
+  {
+    "english": "connect",
+    "swedish": "ansluta"
+  },
+  {
+    "english": "post",
+    "swedish": "inlägg"
+  },
+  {
+    "english": "spend",
+    "swedish": "spendera"
+  },
+  {
+    "english": "chord",
+    "swedish": "ackord"
+  },
+  {
+    "english": "fat",
+    "swedish": "fett"
+  },
+  {
+    "english": "glad",
+    "swedish": "glad"
+  },
+  {
+    "english": "original",
+    "swedish": "original"
+  },
+  {
+    "english": "share",
+    "swedish": "andel"
+  },
+  {
+    "english": "station",
+    "swedish": "station"
+  },
+  {
+    "english": "dad",
+    "swedish": "pappa"
+  },
+  {
+    "english": "bread",
+    "swedish": "bröd"
+  },
+  {
+    "english": "charge",
+    "swedish": "debitera"
+  },
+  {
+    "english": "proper",
+    "swedish": "ordentlig"
+  },
+  {
+    "english": "bar",
+    "swedish": "baren"
+  },
+  {
+    "english": "offer",
+    "swedish": "erbjudandet"
+  },
+  {
+    "english": "segment",
+    "swedish": "segment"
+  },
+  {
+    "english": "slave",
+    "swedish": "slav"
+  },
+  {
+    "english": "duck",
+    "swedish": "anka"
+  },
+  {
+    "english": "instant",
+    "swedish": "omedelbar"
+  },
+  {
+    "english": "market",
+    "swedish": "marknad"
+  },
+  {
+    "english": "degree",
+    "swedish": "grad"
+  },
+  {
+    "english": "populate",
+    "swedish": "befolka"
+  },
+  {
+    "english": "chick",
+    "swedish": "fågelunge"
+  },
+  {
+    "english": "dear",
+    "swedish": "kära"
+  },
+  {
+    "english": "enemy",
+    "swedish": "fiende"
+  },
+  {
+    "english": "reply",
+    "swedish": "svara"
+  },
+  {
+    "english": "drink",
+    "swedish": "dryck"
+  },
+  {
+    "english": "occur",
+    "swedish": "inträffa"
+  },
+  {
+    "english": "support",
+    "swedish": "stöd"
+  },
+  {
+    "english": "speech",
+    "swedish": "tal"
+  },
+  {
+    "english": "nature",
+    "swedish": "natur"
+  },
+  {
+    "english": "range",
+    "swedish": "intervall"
+  },
+  {
+    "english": "steam",
+    "swedish": "ånga"
+  },
+  {
+    "english": "motion",
+    "swedish": "rörelse"
+  },
+  {
+    "english": "path",
+    "swedish": "bana"
+  },
+  {
+    "english": "liquid",
+    "swedish": "vätska"
+  },
+  {
+    "english": "log",
+    "swedish": "logga"
+  },
+  {
+    "english": "meant",
+    "swedish": "innebar"
+  },
+  {
+    "english": "quotient",
+    "swedish": "kvoten"
+  },
+  {
+    "english": "teeth",
+    "swedish": "tänder"
+  },
+  {
+    "english": "shell",
+    "swedish": "skal"
+  },
+  {
+    "english": "neck",
+    "swedish": "hals"
+  },
+  {
+    "english": "oxygen",
+    "swedish": "syre"
+  },
+  {
+    "english": "sugar",
+    "swedish": "socker"
+  },
+  {
+    "english": "death",
+    "swedish": "död"
+  },
+  {
+    "english": "pretty",
+    "swedish": "ganska"
+  },
+  {
+    "english": "skill",
+    "swedish": "Förmåga"
+  },
+  {
+    "english": "women",
+    "swedish": "kvinnor"
+  },
+  {
+    "english": "season",
+    "swedish": "säsong"
+  },
+  {
+    "english": "solution",
+    "swedish": "lösning"
+  },
+  {
+    "english": "magnet",
+    "swedish": "magnet"
+  },
+  {
+    "english": "silver",
+    "swedish": "silver"
+  },
+  {
+    "english": "thank",
+    "swedish": "tack"
+  },
+  {
+    "english": "branch",
+    "swedish": "gren"
+  },
+  {
+    "english": "match",
+    "swedish": "matchen"
+  },
+  {
+    "english": "suffix",
+    "swedish": "suffixet"
+  },
+  {
+    "english": "especially",
+    "swedish": "speciellt"
+  },
+  {
+    "english": "fig",
+    "swedish": "fig"
+  },
+  {
+    "english": "afraid",
+    "swedish": "rädd"
+  },
+  {
+    "english": "huge",
+    "swedish": "enormt"
+  },
+  {
+    "english": "sister",
+    "swedish": "syster"
+  },
+  {
+    "english": "steel",
+    "swedish": "stål"
+  },
+  {
+    "english": "discuss",
+    "swedish": "diskutera"
+  },
+  {
+    "english": "forward",
+    "swedish": "framåt"
+  },
+  {
+    "english": "similar",
+    "swedish": "liknande"
+  },
+  {
+    "english": "guide",
+    "swedish": "guide"
+  },
+  {
+    "english": "experience",
+    "swedish": "erfarenhet"
+  },
+  {
+    "english": "score",
+    "swedish": "poäng"
+  },
+  {
+    "english": "apple",
+    "swedish": "äpple"
+  },
+  {
+    "english": "bought",
+    "swedish": "köpt"
+  },
+  {
+    "english": "led",
+    "swedish": "ledde"
+  },
+  {
+    "english": "pitch",
+    "swedish": "tonhöjd"
+  },
+  {
+    "english": "coat",
+    "swedish": "kappa"
+  },
+  {
+    "english": "mass",
+    "swedish": "massa"
+  },
+  {
+    "english": "card",
+    "swedish": "kort"
+  },
+  {
+    "english": "band",
+    "swedish": "band"
+  },
+  {
+    "english": "rope",
+    "swedish": "rep"
+  },
+  {
+    "english": "slip",
+    "swedish": "halka"
+  },
+  {
+    "english": "win",
+    "swedish": "win"
+  },
+  {
+    "english": "dream",
+    "swedish": "dröm"
+  },
+  {
+    "english": "evening",
+    "swedish": "kväll"
+  },
+  {
+    "english": "condition",
+    "swedish": "tillstånd"
+  },
+  {
+    "english": "feed",
+    "swedish": "foder"
+  },
+  {
+    "english": "tool",
+    "swedish": "verktyg"
+  },
+  {
+    "english": "total",
+    "swedish": "totalt"
+  },
+  {
+    "english": "basic",
+    "swedish": "grundläggande"
+  },
+  {
+    "english": "smell",
+    "swedish": "lukt"
+  },
+  {
+    "english": "valley",
+    "swedish": "dal"
+  },
+  {
+    "english": "nor",
+    "swedish": "eller"
+  },
+  {
+    "english": "double",
+    "swedish": "dubbel"
+  },
+  {
+    "english": "seat",
+    "swedish": "säte"
+  },
+  {
+    "english": "continue",
+    "swedish": "fortsätta"
+  },
+  {
+    "english": "block",
+    "swedish": "blocket"
+  },
+  {
+    "english": "chart",
+    "swedish": "diagram"
+  },
+  {
+    "english": "hat",
+    "swedish": "keps"
+  },
+  {
+    "english": "sell",
+    "swedish": "sälja"
+  },
+  {
+    "english": "success",
+    "swedish": "framgång"
+  },
+  {
+    "english": "company",
+    "swedish": "företaget"
+  },
+  {
+    "english": "subtract",
+    "swedish": "subtrahera"
+  },
+  {
+    "english": "event",
+    "swedish": "händelse"
+  },
+  {
+    "english": "particular",
+    "swedish": "särskilt"
+  },
+  {
+    "english": "deal",
+    "swedish": "affär"
+  },
+  {
+    "english": "swim",
+    "swedish": "simma"
+  },
+  {
+    "english": "term",
+    "swedish": "term"
+  },
+  {
+    "english": "opposite",
+    "swedish": "motsatt"
+  },
+  {
+    "english": "wife",
+    "swedish": "fru"
+  },
+  {
+    "english": "shoe",
+    "swedish": "sko"
+  },
+  {
+    "english": "innovation",
+    "swedish": "innovation"
+  },
+  {
+    "english": "spread",
+    "swedish": "spridning"
+  },
+  {
+    "english": "arrange",
+    "swedish": "ordna"
+  },
+  {
+    "english": "camp",
+    "swedish": "läger"
+  },
+  {
+    "english": "invent",
+    "swedish": "uppfinna"
+  },
+  {
+    "english": "cotton",
+    "swedish": "bomull"
+  },
+  {
+    "english": "born",
+    "swedish": "Född"
+  },
+  {
+    "english": "determine",
+    "swedish": "bestämma"
+  },
+  {
+    "english": "quart",
+    "swedish": "quart"
+  },
+  {
+    "english": "nine",
+    "swedish": "nio"
+  },
+  {
+    "english": "truck",
+    "swedish": "lastbil"
+  },
+  {
+    "english": "noise",
+    "swedish": "buller"
+  },
+  {
+    "english": "level",
+    "swedish": "nivå"
+  },
+  {
+    "english": "chance",
+    "swedish": "chans"
+  },
+  {
+    "english": "gather",
+    "swedish": "samla"
+  },
+  {
+    "english": "shop",
+    "swedish": "butik"
+  },
+  {
+    "english": "stretch",
+    "swedish": "sträcka"
+  },
+  {
+    "english": "throw",
+    "swedish": "kasta"
+  },
+  {
+    "english": "shine",
+    "swedish": "glans"
+  },
+  {
+    "english": "property",
+    "swedish": "egenskap"
+  },
+  {
+    "english": "column",
+    "swedish": "kolonn"
+  },
+  {
+    "english": "molecule",
+    "swedish": "molekyl"
+  },
+  {
+    "english": "select",
+    "swedish": "välj"
+  },
+  {
+    "english": "wrong",
+    "swedish": "fel"
+  },
+  {
+    "english": "gray",
+    "swedish": "grå"
+  },
+  {
+    "english": "repeat",
+    "swedish": "upprepning"
+  },
+  {
+    "english": "require",
+    "swedish": "kräva"
+  },
+  {
+    "english": "broad",
+    "swedish": "bred"
+  },
+  {
+    "english": "prepare",
+    "swedish": "förbereda"
+  },
+  {
+    "english": "salt",
+    "swedish": "salt"
+  },
+  {
+    "english": "nose",
+    "swedish": "näsa"
+  },
+  {
+    "english": "plural",
+    "swedish": "plural"
+  },
+  {
+    "english": "anger",
+    "swedish": "ilska"
+  },
+  {
+    "english": "claim",
+    "swedish": "krav"
+  },
+  {
+    "english": "continent",
+    "swedish": "kontinent"
   }
 ]
