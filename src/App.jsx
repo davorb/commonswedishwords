@@ -1,6 +1,7 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import "./App.css";
-import Words from "./assets/swedish_words.json";
+import Toggler from "./components/Toggler";
+import EasyWords from "./assets/swedish_words.json";
 
 const FLIP_TEXT_DURATION = 150;
 
@@ -9,34 +10,70 @@ function getRandomElement(array) {
 }
 
 function App() {
+  const [words, setWords] = useState(EasyWords);
+  const [hardWords, setHardWords] = useState(null);
+  const [mode, setMode] = useState("easy");
   const [isFlipped, setIsFlipped] = useState(false);
+  const [word, setWord] = useState(getRandomElement(EasyWords));
+
+  const toggleMode = useCallback(() => {
+    setMode((prevMode) => (prevMode === "easy" ? "hard" : "easy"));
+  }, []);
+
+  useEffect(() => {
+    if (mode === "hard" && !hardWords) {
+      fetch("/hard_words.json")
+        .then((res) => res.json())
+        .then((data) => {
+          setHardWords(data);
+          setWords(data);
+          setIsFlipped(false);
+          setWord(getRandomElement(data));
+        })
+        .catch((err) => {
+          console.error("Failed to load hard words", err);
+        });
+    } else {
+      const currentWords = mode === "easy" ? EasyWords : hardWords;
+      setWords(currentWords);
+      setIsFlipped(false);
+      setWord(getRandomElement(currentWords));
+    }
+  }, [mode, hardWords]);
+
   const handleClick = useCallback(() => {
     if (isFlipped) {
-      setTimeout(() => setWord(getRandomElement(Words)), FLIP_TEXT_DURATION);
+      setTimeout(() => {
+        setWord(getRandomElement(words));
+      }, FLIP_TEXT_DURATION);
     }
-    setIsFlipped((state) => !state);
-  }, [isFlipped]);
+    setIsFlipped((prevState) => !prevState);
+  }, [isFlipped, words]);
 
-  const [word, setWord] = useState(getRandomElement(Words));
-  const swedishWord = word.swedish;
-  const swedishExample = word.example;
-  const englishWord = word.english;
+  const {
+    swedish: swedishWord,
+    example: swedishExample,
+    english: englishWord,
+  } = word;
 
   return (
-    <div className="container">
-      <div
-        className={"box card " + (isFlipped && "is-flipped")}
-        id="box"
-        onClick={handleClick}
-      >
-        <div className="box__face box__face--front ">{englishWord}</div>
-        <div className="box__face box__face--back">
-          <b className="fancy">{swedishWord}</b>
-          <br />
-          {swedishExample}
+    <>
+      <Toggler onClick={toggleMode} />
+      <div className="container">
+        <div
+          className={`box card ${isFlipped ? "is-flipped" : ""}`}
+          id="box"
+          onClick={handleClick}
+        >
+          <div className="box__face box__face--front">{englishWord}</div>
+          <div className="box__face box__face--back">
+            <b className="fancy">{swedishWord}</b>
+            <br />
+            {swedishExample}
+          </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }
 
