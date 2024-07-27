@@ -2,6 +2,8 @@ import { useState, useCallback } from "react";
 import "./App.css";
 import Words from "./assets/swedish_words.json";
 
+const FLIP_TEXT_DURATION = 150;
+
 function getRandomElement(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
@@ -10,7 +12,7 @@ function App() {
   const [isFlipped, setIsFlipped] = useState(false);
   const handleClick = useCallback(() => {
     if (isFlipped) {
-      setTimeout(() => setWord(getRandomElement(Words)), 600);
+      setTimeout(() => setWord(getRandomElement(Words)), FLIP_TEXT_DURATION);
     }
     setIsFlipped((state) => !state);
   }, [isFlipped]);
