@@ -1,0 +1,36 @@
+.button {
+  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* position: absolute; */
+  padding-top: 0px;
+  font-size: 20px;
+  top: -8px;
+  left: -10px;
+  width: 35px;
+  height: 35px;
+  border: 1px solid #e5e5e5;
+  background: repeating-radial-gradient(
+      circle at 50% 50%,
+      rgba(200, 200, 200, 0.2) 0%,
+      rgba(200, 200, 200, 0.2) 2%,
+      transparent 2%,
+      transparent 3%,
+      rgba(200, 200, 200, 0.2) 3%,
+      transparent 3%
+    ),
+    conic-gradient(
+      white 0%,
+      silver 10%,
+      white 35%,
+      silver 45%,
+      white 60%,
+      silver 70%,
+      white 80%,
+      silver 95%,
+      white 100%
+    );
+  border-radius: 50%;
+  box-shadow: 3px 5px 10px 0 rgba(0, 0, 0, 0.4);
+}

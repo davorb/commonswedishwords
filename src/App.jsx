@@ -2,6 +2,7 @@ import { useState, useCallback, useEffect } from "react";
 import "./App.css";
 import Toggler from "./components/Toggler";
 import EasyWords from "./assets/swedish_words.json";
+import Button from "./components/Button";
 
 const FLIP_TEXT_DURATION = 150;
 
@@ -58,7 +59,18 @@ function App() {
 
   return (
     <>
-      <Toggler onClick={toggleMode} />
+      <div
+        style={{
+          display: "flex",
+          margin: "auto",
+          justifyContent: "space-evenly",
+        }}
+      >
+        <div style={{ marginTop: "18px" }}>
+          <Button />
+        </div>
+        <Toggler onClick={toggleMode} />
+      </div>
       <div className="container">
         <div
           className={`box card ${isFlipped ? "is-flipped" : ""}`}
