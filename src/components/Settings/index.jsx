@@ -10,6 +10,10 @@ const dataSets = [
     name: "easy 300",
     file: "swedish_words.json",
   },
+  {
+    name: "the seasons (easy)",
+    file: "seasons.json",
+  },
 ];
 
 const Settings = ({ toggleSettings, selectItem }) => {

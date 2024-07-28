@@ -1,0 +1,414 @@
+[
+  {
+    "english": "year",
+    "swedish": "år"
+  },
+  {
+    "english": "week",
+    "swedish": "vecka"
+  },
+  {
+    "english": "quarter",
+    "swedish": "kvartal"
+  },
+  {
+    "english": "month",
+    "swedish": "månad"
+  },
+  {
+    "english": "day",
+    "swedish": "dag"
+  },
+  {
+    "english": "season",
+    "swedish": "årstid"
+  },
+  {
+    "english": "winter",
+    "swedish": "vinter"
+  },
+  {
+    "english": "spring",
+    "swedish": "vår"
+  },
+  {
+    "english": "summer",
+    "swedish": "sommar"
+  },
+  {
+    "english": "autumn / fall",
+    "swedish": "höst"
+  },
+  {
+    "english": "Monday",
+    "swedish": "måndag"
+  },
+  {
+    "english": "Tuesday",
+    "swedish": "tisdag"
+  },
+  {
+    "english": "Wednesday",
+    "swedish": "onsdag"
+  },
+  {
+    "english": "Thursday",
+    "swedish": "torsdag"
+  },
+  {
+    "english": "Friday",
+    "swedish": "fredag"
+  },
+  {
+    "english": "Saturday",
+    "swedish": "lördag"
+  },
+  {
+    "english": "Sunday",
+    "swedish": "söndag"
+  },
+  {
+    "english": "January",
+    "swedish": "januari"
+  },
+  {
+    "english": "February",
+    "swedish": "februari"
+  },
+  {
+    "english": "March",
+    "swedish": "mars"
+  },
+  {
+    "english": "April",
+    "swedish": "april"
+  },
+  {
+    "english": "May",
+    "swedish": "maj"
+  },
+  {
+    "english": "June",
+    "swedish": "juni"
+  },
+  {
+    "english": "July",
+    "swedish": "juli"
+  },
+  {
+    "english": "August",
+    "swedish": "augusti"
+  },
+  {
+    "english": "September",
+    "swedish": "september"
+  },
+  {
+    "english": "October",
+    "swedish": "oktober"
+  },
+  {
+    "english": "November",
+    "swedish": "november"
+  },
+  {
+    "english": "December",
+    "swedish": "december"
+  },
+  {
+    "english": "sun",
+    "swedish": "sol"
+  },
+  {
+    "english": "snow",
+    "swedish": "snö"
+  },
+  {
+    "english": "rain",
+    "swedish": "regn"
+  },
+  {
+    "english": "wind",
+    "swedish": "vind"
+  },
+  {
+    "english": "frost",
+    "swedish": "frost"
+  },
+  {
+    "english": "ice",
+    "swedish": "is"
+  },
+  {
+    "english": "flowers",
+    "swedish": "blommor"
+  },
+  {
+    "english": "bird chirping",
+    "swedish": "fågelkvitter"
+  },
+  {
+    "english": "heat",
+    "swedish": "värme"
+  },
+  {
+    "english": "thunder",
+    "swedish": "åska"
+  },
+  {
+    "english": "chestnuts",
+    "swedish": "kastanjer"
+  },
+  {
+    "english": "clouds",
+    "swedish": "moln"
+  },
+  {
+    "english": "Easter",
+    "swedish": "påsk"
+  },
+  {
+    "english": "Christmas",
+    "swedish": "jul"
+  },
+  {
+    "english": "Midsummer",
+    "swedish": "midsommar"
+  },
+  {
+    "english": "Lucia Day",
+    "swedish": "Luciadagen"
+  },
+  {
+    "english": "New Year's Eve",
+    "swedish": "nyårsafton"
+  },
+  {
+    "english": "leap year",
+    "swedish": "skottår"
+  },
+  {
+    "english": "weather",
+    "swedish": "väder"
+  },
+  {
+    "english": "nature",
+    "swedish": "natur"
+  },
+  {
+    "english": "Earth",
+    "swedish": "jorden"
+  },
+  {
+    "english": "moon",
+    "swedish": "månen"
+  },
+  {
+    "english": "solar system",
+    "swedish": "solsystemet"
+  },
+  {
+    "english": "Northern Hemisphere",
+    "swedish": "norra halvklotet"
+  },
+  {
+    "english": "climate",
+    "swedish": "klimat"
+  },
+  {
+    "english": "sunlight",
+    "swedish": "solljus"
+  },
+  {
+    "english": "coltsfoot",
+    "swedish": "tussilago"
+  },
+  {
+    "english": "buds",
+    "swedish": "knopp"
+  },
+  {
+    "english": "summer vacation",
+    "swedish": "sommarlov"
+  },
+  {
+    "english": "winter break",
+    "swedish": "sportlov"
+  },
+  {
+    "english": "Christmas Eve",
+    "swedish": "julafton"
+  },
+  {
+    "english": "Christmas Day",
+    "swedish": "juldagen"
+  },
+  {
+    "english": "Boxing Day",
+    "swedish": "annandag jul"
+  },
+  {
+    "english": "First of Advent",
+    "swedish": "första advent"
+  },
+  {
+    "english": "Halloween",
+    "swedish": "Halloween"
+  },
+  {
+    "english": "birthday",
+    "swedish": "födelsedag"
+  },
+  {
+    "english": "ordinal number",
+    "swedish": "ordningstal"
+  },
+  {
+    "english": "calendar",
+    "swedish": "kalender"
+  },
+  {
+    "english": "date",
+    "swedish": "datum"
+  },
+  {
+    "english": "weekday",
+    "swedish": "veckodag"
+  },
+  {
+    "english": "weekend",
+    "swedish": "helg"
+  },
+  {
+    "english": "red day (public holiday)",
+    "swedish": "röd dag"
+  },
+  {
+    "english": "24 hours",
+    "swedish": "dygn"
+  },
+  {
+    "english": "hour",
+    "swedish": "timme"
+  },
+  {
+    "english": "minute",
+    "swedish": "minut"
+  },
+  {
+    "english": "second",
+    "swedish": "sekund"
+  },
+  {
+    "english": "dawn",
+    "swedish": "gryning"
+  },
+  {
+    "english": "dusk",
+    "swedish": "skymning"
+  },
+  {
+    "english": "midnight",
+    "swedish": "midnatt"
+  },
+  {
+    "english": "noon",
+    "swedish": "middag"
+  },
+  {
+    "english": "morning",
+    "swedish": "morgon"
+  },
+  {
+    "english": "evening",
+    "swedish": "kväll"
+  },
+  {
+    "english": "night",
+    "swedish": "natt"
+  },
+  {
+    "english": "today",
+    "swedish": "idag"
+  },
+  {
+    "english": "tomorrow",
+    "swedish": "imorgon"
+  },
+  {
+    "english": "yesterday",
+    "swedish": "igår"
+  },
+  {
+    "english": "last week",
+    "swedish": "förra veckan"
+  },
+  {
+    "english": "next month",
+    "swedish": "nästa månad"
+  },
+  {
+    "english": "last year",
+    "swedish": "förra året"
+  },
+  {
+    "english": "century",
+    "swedish": "århundrade"
+  },
+  {
+    "english": "decade",
+    "swedish": "årtionde"
+  },
+  {
+    "english": "millennium",
+    "swedish": "årtusende"
+  },
+  {
+    "english": "seasons change",
+    "swedish": "årstiderna växlar"
+  },
+  {
+    "english": "harvest",
+    "swedish": "skörd"
+  },
+  {
+    "english": "bloom",
+    "swedish": "blomma"
+  },
+  {
+    "english": "migrate",
+    "swedish": "flytta (för fåglar)"
+  },
+  {
+    "english": "hibernate",
+    "swedish": "gå i ide"
+  },
+  {
+    "english": "falling leaves",
+    "swedish": "fallande löv"
+  },
+  {
+    "english": "snowflake",
+    "swedish": "snöflinga"
+  },
+  {
+    "english": "icicle",
+    "swedish": "istapp"
+  },
+  {
+    "english": "drought",
+    "swedish": "torka"
+  },
+  {
+    "english": "flood",
+    "swedish": "översvämning"
+  },
+  {
+    "english": "heatwave",
+    "swedish": "värmebölja"
+  },
+  {
+    "english": "cold snap",
+    "swedish": "köldknäpp"
+  }
+]
