@@ -1,8 +1,8 @@
 import { useState, useCallback, useEffect } from "react";
 import "./App.css";
 import Toggler from "./components/Toggler";
-import EasyWords from "./assets/swedish_words.json";
 import Button from "./components/Button";
+import Settings from "./components/Settings";
 
 const FLIP_TEXT_DURATION = 150;
 
@@ -11,36 +11,56 @@ function getRandomElement(array) {
 }
 
 function App() {
-  const [words, setWords] = useState(EasyWords);
-  const [hardWords, setHardWords] = useState(null);
-  const [mode, setMode] = useState("easy");
+  const [isLoading, setIsLoading] = useState(true);
+  const [fileName, setFileName] = useState("hard_words.json");
+  const [words, setWords] = useState();
+  const [mode, setMode] = useState("A");
   const [isFlipped, setIsFlipped] = useState(false);
-  const [word, setWord] = useState(getRandomElement(EasyWords));
+  const [word, setWord] = useState();
+
+  const [showSettings, setShowSettings] = useState(false);
 
   const toggleMode = useCallback(() => {
-    setMode((prevMode) => (prevMode === "easy" ? "hard" : "easy"));
+    setMode((prevMode) => (prevMode === "A" ? "B" : "A"));
+  }, []);
+  const toggleSettings = useCallback(() => {
+    setShowSettings((prev) => !prev);
   }, []);
 
   useEffect(() => {
-    if (mode === "hard" && !hardWords) {
-      fetch("/hard_words.json")
-        .then((res) => res.json())
-        .then((data) => {
-          setHardWords(data);
-          setWords(data);
-          setIsFlipped(false);
-          setWord(getRandomElement(data));
-        })
-        .catch((err) => {
-          console.error("Failed to load hard words", err);
-        });
-    } else {
-      const currentWords = mode === "easy" ? EasyWords : hardWords;
-      setWords(currentWords);
-      setIsFlipped(false);
-      setWord(getRandomElement(currentWords));
-    }
-  }, [mode, hardWords]);
+    fetch(`/${fileName}`)
+      .then((res) => res.json())
+      .then((data) => {
+        setWords(data);
+        setWord(getRandomElement(data));
+        setIsLoading(false);
+        console.log("Loaded words", fileName);
+      })
+      .catch((err) => {
+        console.error("Failed to load words", err);
+      });
+  }, [fileName]);
+
+  // useEffect(() => {
+  //   if (mode === "hard" && !hardWords) {
+  //     fetch("/hard_words.json")
+  //       .then((res) => res.json())
+  //       .then((data) => {
+  //         setHardWords(data);
+  //         setWords(data);
+  //         setIsFlipped(false);
+  //         setWord(getRandomElement(data));
+  //       })
+  //       .catch((err) => {
+  //         console.error("Failed to load hard words", err);
+  //       });
+  //   } else {
+  //     const currentWords = mode === "easy" ? EasyWords : hardWords;
+  //     setWords(currentWords);
+  //     setIsFlipped(false);
+  //     setWord(getRandomElement(currentWords));
+  //   }
+  // }, [mode, hardWords]);
 
   const handleClick = useCallback(() => {
     if (isFlipped) {
@@ -50,6 +70,16 @@ function App() {
     }
     setIsFlipped((prevState) => !prevState);
   }, [isFlipped, words]);
+
+  if (isLoading) {
+    return <div>Loading...</div>;
+  }
+
+  if (showSettings) {
+    return (
+      <Settings toggleSettings={toggleSettings} selectItem={setFileName} />
+    );
+  }
 
   const {
     swedish: swedishWord,
@@ -67,7 +97,7 @@ function App() {
         }}
       >
         <div style={{ marginTop: "18px" }}>
-          <Button />
+          <Button onClick={toggleSettings}>⚙️</Button>
         </div>
         <Toggler onClick={toggleMode} />
       </div>
@@ -77,9 +107,11 @@ function App() {
           id="box"
           onClick={handleClick}
         >
-          <div className="box__face box__face--front">{englishWord}</div>
+          <div className="box__face box__face--front">
+            {mode === "A" ? englishWord : swedishWord}
+          </div>
           <div className="box__face box__face--back">
-            <b className="fancy">{swedishWord}</b>
+            <b className="fancy">{mode === "A" ? swedishWord : englishWord}</b>
             <br />
             {swedishExample}
           </div>

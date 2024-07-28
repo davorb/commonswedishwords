@@ -1,6 +1,7 @@
 .button {
   color: red;
   display: flex;
+  cursor: pointer;
   justify-content: center;
   align-items: center;
   /* position: absolute; */

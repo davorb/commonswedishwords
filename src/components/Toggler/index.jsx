@@ -16,7 +16,7 @@ const Toggler = ({ onClick = () => {} }) => {
           (checked ? "toggle-label-easy" : "toggle-label-hard")
         }
       >
-        {checked ? "Small" : "Big"}
+        {checked ? "Eng" : "Swe"}
       </div>
       <div className="toggle-border">
         <input

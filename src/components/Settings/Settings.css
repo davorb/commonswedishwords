@@ -1,0 +1,15 @@
+.settings {
+  color: black;
+}
+
+.settings li {
+  list-style-type: none;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 20px;
+  transition: font-weight 0.3s ease;
+}
+
+.settings li:hover {
+  font-weight: bold;
+}
