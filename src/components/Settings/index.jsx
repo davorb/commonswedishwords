@@ -14,6 +14,10 @@ const dataSets = [
     name: "the seasons (easy)",
     file: "seasons.json",
   },
+  {
+    name: "colors (easy)",
+    file: "colors.json",
+  },
 ];
 
 const Settings = ({ toggleSettings, selectItem }) => {
