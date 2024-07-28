@@ -41,27 +41,6 @@ function App() {
       });
   }, [fileName]);
 
-  // useEffect(() => {
-  //   if (mode === "hard" && !hardWords) {
-  //     fetch("/hard_words.json")
-  //       .then((res) => res.json())
-  //       .then((data) => {
-  //         setHardWords(data);
-  //         setWords(data);
-  //         setIsFlipped(false);
-  //         setWord(getRandomElement(data));
-  //       })
-  //       .catch((err) => {
-  //         console.error("Failed to load hard words", err);
-  //       });
-  //   } else {
-  //     const currentWords = mode === "easy" ? EasyWords : hardWords;
-  //     setWords(currentWords);
-  //     setIsFlipped(false);
-  //     setWord(getRandomElement(currentWords));
-  //   }
-  // }, [mode, hardWords]);
-
   const handleClick = useCallback(() => {
     if (isFlipped) {
       setTimeout(() => {
