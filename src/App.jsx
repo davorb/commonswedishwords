@@ -14,11 +14,20 @@ function getRandomElement(array) {
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
-  const [fileName, setFileName] = useState("hard_words.json");
+  const [fileName, _setFileName] = useState("hard_words.json");
   const [words, setWords] = useState();
   const [mode, setMode] = useState("A");
   const [isFlipped, setIsFlipped] = useState(false);
   const [word, setWord] = useState();
+  const setFileName = useCallback(
+    (fileName) => {
+      setWords(null);
+      setIsFlipped(false);
+      _setFileName(fileName);
+      setIsLoading(true);
+    },
+    [setWords, setIsFlipped, _setFileName, setIsLoading],
+  );
 
   const [showSettings, setShowSettings] = useState(false);
 
