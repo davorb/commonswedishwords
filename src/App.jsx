@@ -5,6 +5,8 @@ import Button from "./components/Button";
 import Settings from "./components/Settings";
 
 const FLIP_TEXT_DURATION = 150;
+const ENGLISH_RIBBON = "english";
+const SWEDISH_RIBBON = "swedish";
 
 function getRandomElement(array) {
   return array[Math.floor(Math.random() * array.length)];
@@ -88,13 +90,13 @@ function App() {
         >
           <div className="box__face box__face--front">
             <div class="cr cr-top cr-right cr-sticky cr-blue">
-              {mode === "A" ? "🇬🇧" : "🇸🇪"}
+              {mode === "A" ? ENGLISH_RIBBON : SWEDISH_RIBBON}
             </div>
             <b>{mode === "A" ? englishWord : swedishWord}</b>
           </div>
           <div className="box__face box__face--back">
             <div class="cr cr-top cr-right cr-sticky cr-yellow">
-              {mode === "A" ? "🇸🇪" : "🇬🇧"}
+              {mode === "A" ? SWEDISH_RIBBON : ENGLISH_RIBBON}
             </div>
 
             <b className="fancy back-word">
