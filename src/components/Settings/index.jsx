@@ -1,24 +1,6 @@
 import Button from "../Button";
 import "./Settings.css";
-
-const dataSets = [
-  {
-    name: "top 1000 (recommended)",
-    file: "hard_words.json",
-  },
-  {
-    name: "easy 300",
-    file: "swedish_words.json",
-  },
-  {
-    name: "the seasons (easy)",
-    file: "seasons.json",
-  },
-  {
-    name: "colors (easy)",
-    file: "colors.json",
-  },
-];
+import { DATASETS } from "../../constants";
 
 const Settings = ({ toggleSettings, selectItem }) => {
   const handleClick = (item) => () => {
@@ -30,7 +12,7 @@ const Settings = ({ toggleSettings, selectItem }) => {
       <Button onClick={toggleSettings}>❌</Button>
       <h1>select a dataset</h1>
       <ul>
-        {dataSets.map((dataset) => (
+        {DATASETS.map((dataset) => (
           <li onClick={handleClick(dataset.file)} key={dataset.file}>
             {dataset.name}
           </li>

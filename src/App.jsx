@@ -93,6 +93,7 @@ function App() {
               {mode === "A" ? ENGLISH_RIBBON : SWEDISH_RIBBON}
             </div>
             <b>{mode === "A" ? englishWord : swedishWord}</b>
+            {mode !== "A" && swedishExample}
           </div>
           <div className="box__face box__face--back">
             <div class="cr cr-top cr-right cr-sticky cr-yellow">
@@ -103,7 +104,7 @@ function App() {
               {mode === "A" ? swedishWord : englishWord}
             </b>
             <br />
-            {swedishExample}
+            {mode === "A" && swedishExample}
           </div>
         </div>
       </div>

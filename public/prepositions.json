@@ -1,0 +1,352 @@
+[
+  {
+    "english": "in / into",
+    "swedish": "i",
+    "example": "Jag bor i Stockholm."
+  },
+  {
+    "english": "on / at",
+    "swedish": "på",
+    "example": "Boken ligger på bordet."
+  },
+  {
+    "english": "to / towards",
+    "swedish": "till",
+    "example": "Jag åker till skolan."
+  },
+  {
+    "english": "from",
+    "swedish": "från",
+    "example": "Han kommer från Sverige."
+  },
+  {
+    "english": "with",
+    "swedish": "med",
+    "example": "Jag går med min vän."
+  },
+  {
+    "english": "for",
+    "swedish": "för",
+    "example": "Detta är en present för dig."
+  },
+  {
+    "english": "of",
+    "swedish": "av",
+    "example": "Det är gjort av trä."
+  },
+  {
+    "english": "about / around",
+    "swedish": "om",
+    "example": "Vi pratar om vädret."
+  },
+  {
+    "english": "at / by",
+    "swedish": "vid",
+    "example": "Vi möts vid stationen."
+  },
+  {
+    "english": "after",
+    "swedish": "efter",
+    "example": "Vi äter middag efter jobbet."
+  },
+  {
+    "english": "before",
+    "swedish": "före",
+    "example": "Kom före klockan fem."
+  },
+  {
+    "english": "between",
+    "swedish": "mellan",
+    "example": "Huset ligger mellan sjön och skogen."
+  },
+  {
+    "english": "without",
+    "swedish": "utan",
+    "example": "Jag kan inte leva utan dig."
+  },
+  {
+    "english": "over",
+    "swedish": "över",
+    "example": "Flygplanet flyger över molnen."
+  },
+  {
+    "english": "under",
+    "swedish": "under",
+    "example": "Katten sover under sängen."
+  },
+  {
+    "english": "against",
+    "swedish": "mot",
+    "example": "Han lutar sig mot väggen."
+  },
+  {
+    "english": "through",
+    "swedish": "genom",
+    "example": "Vi kör genom tunneln."
+  },
+  {
+    "english": "around",
+    "swedish": "runt",
+    "example": "Vi sitter runt bordet."
+  },
+  {
+    "english": "beside",
+    "swedish": "bredvid",
+    "example": "Hon sitter bredvid mig."
+  },
+  {
+    "english": "outside",
+    "swedish": "utanför",
+    "example": "Bilen står utanför huset."
+  },
+  {
+    "english": "inside",
+    "swedish": "inuti",
+    "example": "Nyckeln är inuti lådan."
+  },
+  {
+    "english": "among",
+    "swedish": "bland",
+    "example": "Han är populär bland sina vänner."
+  },
+  {
+    "english": "during",
+    "swedish": "under",
+    "example": "Vi arbetar under dagen."
+  },
+  {
+    "english": "since",
+    "swedish": "sedan",
+    "example": "Jag har bott här sedan 2010."
+  },
+  {
+    "english": "until",
+    "swedish": "tills",
+    "example": "Vi väntar tills han kommer."
+  },
+  {
+    "english": "except",
+    "swedish": "utom",
+    "example": "Alla kom utom Lisa."
+  },
+  {
+    "english": "according to",
+    "swedish": "enligt",
+    "example": "Enligt väderleksrapporten blir det sol imorgon."
+  },
+  {
+    "english": "instead of",
+    "swedish": "istället för",
+    "example": "Vi åt pasta istället för ris."
+  },
+  {
+    "english": "despite",
+    "swedish": "trots",
+    "example": "Han gick ut trots regnet."
+  },
+  {
+    "english": "because of",
+    "swedish": "på grund av",
+    "example": "Mötet ställdes in på grund av sjukdom."
+  },
+  {
+    "english": "across",
+    "swedish": "tvärs över",
+    "example": "Vi gick tvärs över gatan."
+  },
+  {
+    "english": "along",
+    "swedish": "längs",
+    "example": "Vi promenerade längs stranden."
+  },
+  {
+    "english": "behind",
+    "swedish": "bakom",
+    "example": "Hunden ligger bakom soffan."
+  },
+  {
+    "english": "in front of",
+    "swedish": "framför",
+    "example": "Det står en bil framför huset."
+  },
+  {
+    "english": "opposite",
+    "swedish": "mittemot",
+    "example": "Banken ligger mittemot kyrkan."
+  },
+  {
+    "english": "near",
+    "swedish": "nära",
+    "example": "Vi bor nära skolan."
+  },
+  {
+    "english": "far from",
+    "swedish": "långt från",
+    "example": "Restaurangen ligger långt från centrum."
+  },
+  {
+    "english": "by means of",
+    "swedish": "medelst",
+    "example": "Vi kommunicerar medelst e-post."
+  },
+  {
+    "english": "regarding",
+    "swedish": "angående",
+    "example": "Jag vill prata med dig angående projektet."
+  },
+  {
+    "english": "concerning",
+    "swedish": "beträffande",
+    "example": "Han gav oss information beträffande mötet."
+  },
+  {
+    "english": "above",
+    "swedish": "ovanför",
+    "example": "Lampan hänger ovanför bordet."
+  },
+  {
+    "english": "below",
+    "swedish": "nedanför",
+    "example": "Byn ligger nedanför berget."
+  },
+  {
+    "english": "within",
+    "swedish": "inom",
+    "example": "Vi måste slutföra projektet inom en vecka."
+  },
+  {
+    "english": "beyond",
+    "swedish": "bortom",
+    "example": "Det finns en värld bortom vår egen."
+  },
+  {
+    "english": "throughout",
+    "swedish": "över hela",
+    "example": "Nyheten spred sig över hela landet."
+  },
+  {
+    "english": "past",
+    "swedish": "förbi",
+    "example": "Vi körde förbi skolan på väg hem."
+  },
+  {
+    "english": "onto",
+    "swedish": "upp på",
+    "example": "Katten hoppade upp på bordet."
+  },
+  {
+    "english": "off",
+    "swedish": "av",
+    "example": "Ta av dig skorna innan du går in."
+  },
+  {
+    "english": "per",
+    "swedish": "per",
+    "example": "Priset är 100 kronor per person."
+  },
+  {
+    "english": "via",
+    "swedish": "via",
+    "example": "Vi reste till Paris via London."
+  },
+  {
+    "english": "as of",
+    "swedish": "från och med",
+    "example": "Från och med idag är rökning förbjuden här."
+  },
+  {
+    "english": "due to",
+    "swedish": "på grund av",
+    "example": "Flyget är försenat på grund av dåligt väder."
+  },
+  {
+    "english": "apart from",
+    "swedish": "bortsett från",
+    "example": "Bortsett från regnet var det en bra dag."
+  },
+  {
+    "english": "as for",
+    "swedish": "vad gäller",
+    "example": "Vad gäller priset, så kan vi diskutera det senare."
+  },
+  {
+    "english": "unlike",
+    "swedish": "till skillnad från",
+    "example": "Till skillnad från sin bror, tycker hon om att läsa."
+  },
+  {
+    "english": "up to",
+    "swedish": "upp till",
+    "example": "Det kan ta upp till en timme att komma dit."
+  },
+  {
+    "english": "out of",
+    "swedish": "ur",
+    "example": "Hon tog boken ur väskan."
+  },
+  {
+    "english": "toward",
+    "swedish": "mot",
+    "example": "Vi går mot centrum."
+  },
+  {
+    "english": "along with",
+    "swedish": "tillsammans med",
+    "example": "Hon kom tillsammans med sin bror."
+  },
+  {
+    "english": "owing to",
+    "swedish": "på grund av",
+    "example": "På grund av regnet ställdes matchen in."
+  },
+  {
+    "english": "prior to",
+    "swedish": "före",
+    "example": "Vi måste lämna in rapporten före mötet."
+  },
+  {
+    "english": "subsequent to",
+    "swedish": "efter",
+    "example": "Efter mötet gick vi ut och åt lunch."
+  },
+  {
+    "english": "regardless of",
+    "swedish": "oavsett",
+    "example": "Vi går ut oavsett vädret."
+  },
+  {
+    "english": "in spite of",
+    "swedish": "trots",
+    "example": "Trots regnet hade vi en trevlig picknick."
+  },
+  {
+    "english": "in addition to",
+    "swedish": "förutom",
+    "example": "Förutom svenska talar hon också engelska och franska."
+  },
+  {
+    "english": "in lieu of",
+    "swedish": "i stället för",
+    "example": "I stället för blommor, ge en donation till välgörenhet."
+  },
+  {
+    "english": "as opposed to",
+    "swedish": "i motsats till",
+    "example": "I motsats till sin syster föredrar han att bo i staden."
+  },
+  {
+    "english": "in accordance with",
+    "swedish": "i enlighet med",
+    "example": "Handlingen utfördes i enlighet med lagen."
+  },
+  {
+    "english": "by virtue of",
+    "swedish": "i kraft av",
+    "example": "I kraft av sin position kunde hon fatta det beslutet."
+  },
+  {
+    "english": "in case of",
+    "swedish": "i händelse av",
+    "example": "I händelse av brand, använd trapporna."
+  }
+]
