@@ -37,11 +37,14 @@
   align-items: center;
   justify-content: center;
   font-size: 24px;
+  overflow: hidden;
 }
+
 .box__face--front {
   background: #ffcc00;
   color: #003399;
 }
+
 .box__face--back {
   background: #003399;
   color: white;
@@ -49,6 +52,11 @@
   display: flex;
   flex-direction: column;
 }
+
+.back-word {
+  padding-top: 30px;
+}
+
 .box.is-flipped {
   transform: rotateY(180deg);
 }
@@ -56,6 +64,7 @@
 .fancy {
   position: relative;
   white-space: nowrap;
+
   &:after {
     --deco-height: 0.3125em;
     content: "";
@@ -69,4 +78,26 @@
     background-repeat: round;
     background-position: 0em;
   }
+}
+
+/* ribbon */
+.cr {
+  width: 200px; /* Increased width to span the corner */
+  padding: 2px 0; /* Vertical padding only */
+  position: absolute;
+  text-align: center;
+  color: #f0f0f0;
+  font-size: 32px;
+  z-index: 1;
+  right: -70px; /* Adjust to position the ribbon correctly */
+  top: 0px; /* Adjust to position the ribbon correctly */
+  transform: rotate(45deg); /* Rotate to align with the corner */
+}
+
+.cr-blue {
+  background-color: #003399;
+}
+
+.cr-yellow {
+  background-color: #ffcc00;
 }

@@ -87,10 +87,19 @@ function App() {
           onClick={handleClick}
         >
           <div className="box__face box__face--front">
-            {mode === "A" ? englishWord : swedishWord}
+            <div class="cr cr-top cr-right cr-sticky cr-blue">
+              {mode === "A" ? "🇬🇧" : "🇸🇪"}
+            </div>
+            <b>{mode === "A" ? englishWord : swedishWord}</b>
           </div>
           <div className="box__face box__face--back">
-            <b className="fancy">{mode === "A" ? swedishWord : englishWord}</b>
+            <div class="cr cr-top cr-right cr-sticky cr-yellow">
+              {mode === "A" ? "🇸🇪" : "🇬🇧"}
+            </div>
+
+            <b className="fancy back-word">
+              {mode === "A" ? swedishWord : englishWord}
+            </b>
             <br />
             {swedishExample}
           </div>
