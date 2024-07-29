@@ -89,14 +89,14 @@ function App() {
           onClick={handleClick}
         >
           <div className="box__face box__face--front">
-            <div class="cr cr-top cr-right cr-sticky cr-blue">
+            <div class="cr cr-right cr-blue">
               {mode === "A" ? ENGLISH_RIBBON : SWEDISH_RIBBON}
             </div>
             <b>{mode === "A" ? englishWord : swedishWord}</b>
             {mode !== "A" && swedishExample}
           </div>
           <div className="box__face box__face--back">
-            <div class="cr cr-top cr-right cr-sticky cr-yellow">
+            <div class="cr cr-left cr-yellow">
               {mode === "A" ? SWEDISH_RIBBON : ENGLISH_RIBBON}
             </div>
 

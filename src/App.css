@@ -88,10 +88,18 @@
   text-align: center;
   color: #f0f0f0;
   font-size: 12px;
-  /* z-index: 1; */
+}
+
+.cr-right {
   right: -50px; /* Adjust to position the ribbon correctly */
   top: 15px; /* Adjust to position the ribbon correctly */
   transform: rotate(45deg); /* Rotate to align with the corner */
+}
+
+.cr-left {
+  left: -50px; /* Adjust to position the ribbon correctly */
+  top: 15px; /* Adjust to position the ribbon correctly */
+  transform: rotate(-45deg); /* Rotate to align with the corner */
 }
 
 .cr-blue {
