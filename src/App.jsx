@@ -87,7 +87,7 @@ function App() {
         }}
       >
         <div style={{ marginTop: "18px" }}>
-          <Button onClick={toggleSettings}></Button>
+          <Button onClick={toggleSettings} tooltip="Settings"></Button>
         </div>
         <Toggler onClick={toggleMode} />
       </div>
